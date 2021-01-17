@@ -1,9 +1,6 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="Россия",Первый
-http://rt-sib-chita-htlive.cdn.ngenix.net:80/hls/CH_R03_1TV/variant.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="Россия",Первый
 https://s1.idata.uz/stch_temp23/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="Россия",Россия 1 
@@ -14,8 +11,6 @@ https://s1.idata.uz/stch_temp25/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Россия",Россия 24
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
 
-#EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Россия",Россия 24
-http://bemtv.parom.tv/hls/stream27/stream0.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-k.png" group-title="Россия",РОССИЯ-K
 https://a3569455160-s26881.cdn.ngenix.net/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1 tvg-logo="http://fanat.tv/images/tv/rossiya-k.png" group-title="Россия",Россия РТP
@@ -43,29 +38,11 @@ https://s1.idata.uz/stch_temp18/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://3abn.org/img/logos/3abn-russia-logo.jpg" group-title="Россия",3ABN
 https://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/5Kanal.ru.png" group-title="Россия",5 канал
-http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R02_OTT_CT_IVAN_5TV/variant.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/AutoPlus.ru.png" group-title="Россия",Авто плюс
-http://188.93.95.34:80/autoplus/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/Avto24.ru.png" group-title="Россия",Авто 24
-http://188.93.95.34:80/auto24/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://amediatv.ru/wp-content/uploads/2017/09/a2.png" group-title="Россия",A2
-http://89.106.234.4:80/amedia_2_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/STS.ru.png" group-title="Россия",СТС
-http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R02_OTT_CT_IVAN_STS/variant.m3u8
+http://89.106.234.4:80/STS_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/Space.ru.png" group-title="Россия",Спас
 http://spastv.ru/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sat-one.info/filez/20171203233630275.jpg" group-title="Россия",СУПЕР
-https://bl.zxz.su/live/317845/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-2SkG-OGF_yM/T6bR-WrtWWI/AAAAAAAAAZs/85a_-1Xy5XA/s1600/%D0%9F%D0%B5%D1%80%D0%B5%D1%86.png" group-title="Россия",Перец
-http://188.93.95.34:80/perec/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/Doktor.ru.png" group-title="Россия",ДДоктор
-http://188.93.95.34:80/doctor/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/Domashniy.ru.png" group-title="Россия",Домашний
-http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R04_OTT_CT_IVAN_DOMASHNY/variant.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/NTV.ru.png" group-title="Россия",НТВ
-http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R03_OTT_CT_IVAN_NTV/variant.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/NTV.ru.png" group-title="Россия",НТВ
 https://s1.idata.uz/stch_temp26/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/Pjatnica.ru.png" group-title="Россия",Пятница!
@@ -82,26 +59,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m24.ru/img/logos/logo11.png" group-title="Россия",Москва 24
 http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/OTR.ru.png" group-title="Россия",ОТР
-http://rt-ct-orl-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_OTR/variant.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/TNTInternational.ru.png" group-title="Россия",ТНТ
-http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_OTT_CT_IVAN_TNT/variant.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/TNT4.ru.png" group-title="Россия",ТНТ 4
-https://bl.zxz.su/live/317849/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/Che.ru.png" group-title="Россия",Че!
-http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R02_PERETZ/variant.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/RENTV.ru.png" group-title="Россия",РЕН
-http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R02_OTT_CT_IVAN_RENTV/variant.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.livenewson.com/wp-content/uploads/2015/05/RBC-TV1.jpg" group-title="Россия",РБК
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/Karusel.ru.png" group-title="Россия",Карусель
-http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_OTT_CT_IVAN_KARUSEL/variant.m3u8
-#EXTINF:-1 tvg-logo="https://st.tv3.ru/public/images/logo.png" group-title="Россия",ТВ3
-http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_OTT_CT_IVAN_TV3/variant.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/TVCentr.ru.png" group-title="Россия",ТВЦ
-http://rt-ct-orl-htlive-lb.cdn.ngenix.net:80/hls/CH_R04_TVC/variant.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/Yu.ru.png" group-title="Россия",Ю
-http://rt-ct-ivan-htlive-lb.cdn.ngenix.net:80/hls/CH_R03_U/variant.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/Zvezda.ru.png" group-title="Россия",Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.mboxtv.ru/images/logo-4.png" group-title="Россия",Music Box Gold
@@ -114,16 +73,6 @@ https://tv5asieru-i.akamaihd.net/hls/live/651800/tv5asieru/index.m3u8
 https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ru/Euronews.ru.png" group-title="Россия",Euronews Русский
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist_2m.m3u8
-
-#EXTINF:-1 tvg-logo="http://yk24.ru/assets/images/resources/13919/normal/photo.jpg" group-title="Россия",Арктика 24
-http://rt-ural-nbk-htlive.cdn.ngenix.net:80/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/variant.m3u8
-#EXTINF:-1 tvg-logo="http://yk24.ru/assets/images/resources/13919/normal/photo.jpg" group-title="Россия",МИГ ТВ
-http://rt-ural-nbk-htlive.cdn.ngenix.net:80/hls/CH_R04_OTT_MIG_TV_URAL_YNF/variant.m3u8
-#EXTINF:-1 tvg-logo="http://yk24.ru/assets/images/resources/13919/normal/photo.jpg" group-title="Россия",Импульс
-http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R02_IMPULS_NBK/variant.m3u8
-#EXTINF:-1 tvg-logo="http://yk24.ru/assets/images/resources/13919/normal/photo.jpg" group-title="Россия",Муравленко 24hD
-http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MURAVLENKO_24/variant.m3u
-
 
 #EXTINF:-1 tvg-logo="http://yk24.ru/assets/images/resources/13919/normal/photo.jpg" group-title="Россия",Якутия 24
 http://live-saha.cdnvideo.ru/saha/yak24/playlist.m3u8
@@ -262,36 +211,16 @@ http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://kab.tv/static/images/kab_tv_eng.gif" group-title="Россия",Каббала
 http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/Kinoserija.ru.png" group-title="Россия",Киносерия
-http://188.93.95.34:80/kinoseria/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/KinoSvidanie.ru.png" group-title="Россия",Киносвидание
 https://s3.idata.uz/dars6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/Kinokomediya.ru.png" group-title="Россия",Кинокомедия
-http://188.93.95.34:80/kinokomediya/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.beeline.ru/upload/contents/338/logo/kinomiks_195.png" group-title="Россия",Киномикс
-http://188.93.95.34:80/kinomiks/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/Kinohit.ru.png" group-title="Россия",Кинохит
 https://s1.idata.uz/stch_temp3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/KinoSemya.ru.png" group-title="Россия",Киносемья
-http://188.93.95.34:80/kinosemya/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/KinoPremiera.ru.png" group-title="Россия",КиноПремиум
-http://188.93.95.34:80/kinopremyerahd/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/IndiyskoeKino.ru.png" group-title="Россия",Индийское Кино 
-http://188.93.95.34:80/indiyskoekino/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/DomKino.ru.png" group-title="Ўзбекистон",Дом кино
 https://s3.idata.uz/dars7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/NashKinoroman.ru.png" group-title="Россия",Наше новое кино
 https://s1.idata.uz/stch_temp6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/RodnoeKino.ru.png" group-title="Россия",Родное Кино
 https://s3.idata.uz/dars10/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/MuzhskoyeKino.ru.png" group-title="Россия",Мужское кино
-http://188.93.95.34:80/interesnoetv/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/Evrokino.ru.png" group-title="Россия",Еврокино
-http://188.93.95.34:80/eurokino/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://katun24.ru/files/k24_logo.png" group-title="Россия",Катунь 24
 https://live.katun24.ru:8082/katun/katun/index.m3u8
@@ -433,22 +362,8 @@ http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 http://serv25.vintera.tv:8081/neplaneta/np/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://smi-vidnoe.ru/wp-content/themes/smi-vidnoe.ru/assets/img/logo.png" group-title="Россия",Видное
 https://gearlabs.ru/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/ViasatExplore.ru.png" group-title="Россия",Viasat Explore
-http://188.93.95.34:80/viasatexp/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/ViasatHistory.ru.png" group-title="Россия",Viasathistory
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/ViasatHistory.ru.png" group-title="Россия",Viasat History
 https://s1.idata.uz/stch_temp20/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/ViasatNature.ru.png" group-title="Россия",Viasat Nature
-http://188.93.95.34:80/viasatnat/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/ViasatSport.ru.png" group-title="Россия",Viasat Sport
-http://188.93.95.34:80/viasatsport/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.viasatworld.com/media/1184/vippremiere.png" group-title="Россия",VIP Premiere
-http://188.35.9.14:2013
-#EXTINF:-1 tvg-logo="http://www.viasatworld.com/media/1186/vipmegahit.png" group-title="Россия",VIP Megahit
-http://188.35.9.14:2016
-#EXTINF:-1 tvg-logo="https://cdn.kyivstar.ua/sites/default/files/channels_logo/vip_logo_rgb_-_premiere_colour_0.png" group-title="Россия",VIPhit
-http://188.93.95.34:80/healthtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.kyivstar.ua/sites/default/files/channels_logo/vip_logo_rgb_-_premiere_colour_0.png" group-title="Россия",VIP Family
-http://188.93.95.34:80/tv5/index.m3u8
 #EXTINF:-1 tvg-logo="http://wfc.tv/images/Logo-WF.png" group-title="Россия",World Fashion TV Россия
 http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v2a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://vrt.tv/assets/vrt/img/logo/logo_30.png" group-title="Россия",VRT.TV
@@ -474,7 +389,7 @@ http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1 tvg-logo="https://luxury.tv/wp-content/uploads/2019/12/TV_logo_L041219.jpg" group-title="Россия",Luxury TV
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/DaVinciKids.ru.png" group-title="Россия",DaVinci Россия
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/DaVinciKids.ru.png" group-title="Россия",Da Vinci Россия
 http://89.106.234.4:80/DaVinci_34_35.m3u8
 
 #EXTINF:-1 tvg-logo="http://onelike.tv/images/krym-1.png" group-title="Крым",1 Крым
@@ -710,8 +625,6 @@ https://waok9ia0vpf.a.trbcdn.net/livemaster/dybu83yagb_Asylarna_test/playlist.m3
 http://188.93.95.34:80/amediapremium/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/AmediaHit.ru.png" group-title="Казахстан",Amediahit
 http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ru/STS.ru.png" group-title="Казахстан",СТС International
-http://89.106.234.4:80/STS_34_35.m3u8
 #EXTINF:-1 tvg-logo="http://stv-online.kz/static/img/logo.png" group-title="Казахстан",СТВ 
 http://89.106.234.4:80/STV_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1176751402514862080/-H7xoqbS_400x400.jpg" group-title="Казахстан",Dombyra TV
