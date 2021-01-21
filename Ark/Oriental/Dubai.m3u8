@@ -481,6 +481,20 @@ http://cdn1.live.irib.ir:1935/channel-live/smil:fars/playlist.m3u8
 http://cdn1.live.irib.ir:1935/channel-live/smil:jjtvn1/chunklist_b307200_slFa.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/IRIB_Shoma_TV%27s_new_logo.png/200px-IRIB_Shoma_TV%27s_new_logo.png" group-title="أنباء",Shoma TV Network
+https://sdm.telewebion.com/live/shoma/shoma-480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/a/a1/IRINN_LOGO_IRIB.svg/200px-IRINN_LOGO_IRIB.svg.png" group-title="أنباء",IRIB Irinn
+https://sdm.telewebion.com/live/irinn/irinn-480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/Watch.ir.png" group-title="أنباء",Tamasha
+https://sdm.telewebion.com/live/tamasha/tamasha-480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://salamattv.ir/img/logob5.png" group-title="أنباء",IRIB Salamat
+https://sdm.telewebion.com/live/salamat/salamat-480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/QuranFarsi.ir.png" group-title="أنباء",IRIB Quran
+https://sdm.telewebion.com/live/quran/quran-480p/index.m3u8
+
+
+#https://sdm.telewebion.com/live/sabz/sabz_dvr-576p/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/El4Ymh6.png" group-title="Movies",iFILM Persian 1
 https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ifilmtv.com/Content/Intro/Layer7.png" group-title="العراق",iFILM Persian 2
