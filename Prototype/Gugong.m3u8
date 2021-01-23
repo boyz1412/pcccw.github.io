@@ -906,34 +906,43 @@ http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 #EXTINF:-1 tvg-id="RT1.AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/1920px-RTSH_1_HD_%282020_Logo%29.svg.png" group-title="Europe",RTSH 1 (Albania)
 http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
 
-#EXTINF:-1 tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="中东精选",MBC 1
+#EXTINF:-1 tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="Middle East",MBC 1(Saudi Arabia)
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
-#EXTINF:-1 tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="中东精选",Abu Dhabi Al Oula
+#EXTINF:-1 tvg-id="SA1.SA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ksa-channel_logo.png" group-title="Middle East",Al Saudiya(Saudi Arabia)
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
+#EXTINF:-1 tvg-id="SUN.SA" tvg-logo="https://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="Middle East",Makkah TV(Saudi Arabia)
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
+#EXTINF:-1 tvg-id="MED.SA" tvg-logo="https://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png" group-title="Middle East",Medina TV(Saudi Arabia)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+
+
+#EXTINF:-1 tvg-id="ROT.EG" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="Middle East",Rotana Drama(Egypt)
+https://hiplayer.hibridcdn.net/p/rotana-drama/playlist.m3u8
+#EXTINF:-1 tvg-id="ROT.EG" tvg-logo="https://static.epg.best/eg/RotanaCinema.eg.png" group-title="Middle East",Rotana Cinema(Egypt)
+https://hiplayer.hibridcdn.net/p/rotana-cinema/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ADU.AE" tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="Middle East",Abu Dhabi Al Oula(UAE)
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1 tvg-id="LBI.LB" tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png" group-title="中东精选",LBC International
-https://rotana.hibridmedia.com/rotana/lbc_dabr/rotana/lbc_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="ROT.EG" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="中东精选",Rotana Drama
-https://rotana.hibridmedia.com/rotana/drama_dabr/rotana/drama_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="NES.TN" tvg-logo="https://www.nessma.tv/images/apple-icon-57x57.png" group-title="中东精选",Nessma
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/NES.m3u8
-#EXTINF:-1 tvg-id="2MD.MA" tvg-logo="https://static.epg.best/ma/2MMonde.ma.png" group-title="中东精选",2M Monde
+#EXTINF:-1 tvg-id="LBI.LB" tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png" group-title="Middle East",LBC Int(Lebanon)
+https://hiplayer.hibridcdn.net/p/rotana-lbc/playlist.m3u8
+#EXTINF:-1 tvg-id="2MD.MA" tvg-logo="https://static.epg.best/ma/2MMonde.ma.png" group-title="Middle East",2M Monde(Morocco)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 
-#EXTINF:-1 tvg-id="TR1.TR" tvg-logo="https://static.epg.best/tr/TRT1.tr.png" group-title="中东精选",TRT 1
+#EXTINF:-1 tvg-id="TR1.TR" tvg-logo="https://static.epg.best/tr/TRT1.tr.png" group-title="Middle East",TRT 1(Turkey)
 https://tv-trt1.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="KAN.TR" tvg-logo="https://static.epg.best/tr/KanalD.tr.png" group-title="中东精选",Kanal D
+#EXTINF:-1 tvg-id="KAN.TR" tvg-logo="https://static.epg.best/tr/KanalD.tr.png" group-title="Middle East",Kanal D(Turkey)
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
-#EXTINF:-1 tvg-id="STA.TR" tvg-logo="https://static.epg.best/tr/StarTV.tr.png" group-title="中东精选",Star
+#EXTINF:-1 tvg-id="STA.TR" tvg-logo="https://static.epg.best/tr/StarTV.tr.png" group-title="Middle East",Star(Turkey)
 https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="SHO.TR" tvg-logo="https://static.epg.best/tr/ShowTV.tr.png" group-title="中东精选",Show
+#EXTINF:-1 tvg-id="SHO.TR" tvg-logo="https://static.epg.best/tr/ShowTV.tr.png" group-title="Middle East",Show(Turkey)
 https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="IR1.IR" tvg-logo="https://static.epg.best/ir/TV1English.ir.png" group-title="中东精选",IRIB 1
-https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="IRV.IR" tvg-logo="https://static.epg.best/ir/VarzeshFarsi.ir.png" group-title="中东精选",IRIB Varzesh
+#EXTINF:-1 tvg-id="IR1.IR" tvg-logo="https://static.epg.best/ir/TV1English.ir.png" group-title="Middle East",IRIB 1(Iran)
+https://sdm.telewebion.com/live/tv1/tv1-720p/index.m3u8
+#EXTINF:-1 tvg-id="IRV.IR" tvg-logo="https://static.epg.best/ir/VarzeshFarsi.ir.png" group-title="Middle East",IRIB Varzesh(Iran)
 https://livetv.farsiland.com/varzesh.m3u8
 
-#EXTINF:-1 tvg-id="11.IL" tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="中东精选",Kan 11
+#EXTINF:-1 tvg-id="11.IL" tvg-logo="https://static.epg.best/il/Kan11.il.png" group-title="Middle East",Channel 12(Israel)
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8|X-Forwarded-For=87.239.255.120
-#EXTINF:-1 tvg-id="R13.IL" tvg-logo="https://static.epg.best/il/13Reshet.il.png" group-title="中东精选",Reshet 13
-https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index_3.m3u8
+#EXTINF:-1 tvg-id="12.IL" tvg-logo="https://static.epg.best/il/12Keshet.il.png" group-title="Middle East",Channel 12(Israel)
+https://iptv--iptv.repl.co/Hebrew/keshet_12
