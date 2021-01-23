@@ -189,21 +189,21 @@ https://geralorigin.eu-central-1.edge.mycdn.live/mylive/globorjhd/video.m3u8|Ref
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/Rtp1.pt.png" group-title="Português/Brasil",RTP 1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|User-Agent="Mozilla/5.0(iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4(KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/Rtp2.pt.png" group-title="Português/Brasil",RTP 2
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8|User-Agent="Mozilla/5.0(iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4(KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/Rtp3.pt.png" group-title="Português/Brasil",RTP 3
-https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8|User-Agent="Mozilla/5.0(iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4(KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/RtpAcores.pt.png" group-title="Português/Brasil",RTP Acores
-https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8|User-Agent="Mozilla/5.0(iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4(KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/RtpMadeira.pt.png" group-title="Português/Brasil",RTP Madeira
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8|User-Agent="Mozilla/5.0(iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4(KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/RtpMemoria.pt.png" group-title="Português/Brasil",RTP Memoria
-https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8|User-Agent="Mozilla/5.0(iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4(KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
 #EXTINF:-1 tvg-logo="https://static.epg.best/pt/RTPInternacional.pt.png" group-title="Português/Brasil",RTP Internacional
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8|User-Agent="Mozilla/5.0(iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4(KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pt/RtpAfrica.pt.png" group-title="Português/Brasil",RTP Africa
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8|User-Agent="Mozilla/5.0(iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4(KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-images.rtp.pt/common/img/estudoemcasa-partilha.jpg" group-title="Português/Brasil",Estudo em Casa
 https://streaming-live.rtp.pt/liverepeater/smil:estudoemcasa.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://cdn-images.rtp.pt/play/images/direitos_zigzag_tv.jpg" group-title="Português/Brasil",ZigZag 🇵🇹
@@ -275,16 +275,16 @@ https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
 #EXTINF:-1 tvg-id="Record TV Porto Alegre" tvg-logo="https://i.imgur.com/eWk0HBf.png" group-title="TV Aberta/Variedades",RecordTV Rio Grande do Sul HD
 https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.imgur.com/m1XDJTj.png" group-title="TV Aberta/Variedades",TV Conquista - RecordTV (MT)
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.imgur.com/m1XDJTj.png" group-title="TV Aberta/Variedades",TV Conquista - RecordTV(MT)
 http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8
 
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.imgur.com/V4DhYx7.png" group-title="TV Aberta/Variedades",TV Tropical - RecordTV (RN)
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.imgur.com/V4DhYx7.png" group-title="TV Aberta/Variedades",TV Tropical - RecordTV(RN)
 https://59f2354c05961.streamlock.net:1443/tvtropical/_definst_/tvtropical/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.imgur.com/Z85PJOg.png" group-title="TV Aberta/Variedades",TV Paranaíba - RecordTV (MG) [programação local]
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.imgur.com/Z85PJOg.png" group-title="TV Aberta/Variedades",TV Paranaíba - RecordTV(MG) [programação local]
 https://live.paranaibaplay.com.br/live/tv.m3u8
 
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.imgur.com/cZsTugF.png" group-title="TV Aberta/Variedades",SIC TV - RecordTV (RO) [programação local]
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="https://i.imgur.com/cZsTugF.png" group-title="TV Aberta/Variedades",SIC TV - RecordTV(RO) [programação local]
 https://5953e7f9ae845.streamlock.net/2502/2502/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="SBT.BR" tvg-logo="https://static.epg.best/br/SBT.br.png" group-title="Português/Brasil",SBT
@@ -768,7 +768,7 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/index_2000_av-b.m3u8
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/ru/RTEspanol.ru.png" group-title="Español",RT Español
 http://rt-esp.secure.footprint.net:80/1102_2500Kb.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/de/DeutscheWelleEs.de.png" group-title="Español",DW (Español)
+#EXTINF:-1 tvg-logo="https://static.epg.best/de/DeutscheWelleEs.de.png" group-title="Español",DW(Español)
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-logo="https://ocio.lne.es/img_contenido/noticias/2018/12/717579/la_voz_canal_24_horas.jpg" group-title="Español",La Voz 24h 
 https://pull12.atresmedia.com/lavoz/master.m3u8
@@ -1179,7 +1179,7 @@ https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.canal19.do/wp-content/uploads/2018/06/logo-300-x-300.png" group-title="República Dominicana",Cinevision Canal 19
 http://cinevision01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://colorvision.com.do/wp-content/uploads/2018/10/LOGO-HD-full.png" group-title="República Dominicana",Color Visión
-https://pcccw.github.io/IPTV/M3U8/M3U8/Token/COV9.m3u8
+https://pcccw.github.io/pcccw.github.io/M3U8/Token/COV9.m3u8
 #EXTINF:-1 tvg-logo="http://lunatv.do/images/gestor/logo-canal53.png" group-title="República Dominicana",Luna TV
 http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w321264520.m3u8
 #EXTINF:-1 tvg-logo="https://miavision.tv/wp-content/uploads/2020/04/miavision-300x168.png" group-title="República Dominicana",Mangto TV RD
