@@ -156,7 +156,7 @@ http://tvl-live.fl.freecaster.net/live/telemb/telemb.m3u8
 https://tvl-live.fl.freecaster.net/live/telesambre/telesambre.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://bhrt.ba/wp-content/uploads/2019/10/logo_bhrtx250.png" group-title="Bosna",BHT TV
-http://bhrtstream.bhtelecom.ba/hls15/bhrtportal_1200.m3u8
+https://bhrtstream.bhtelecom.ba/bhrtportal.m3u8|X-Forwarded-For=37.203.67.21
 #EXTINF:-1 tvg-id="" tvg-logo="https://rtrs.tv/_bmp/logo-127x37.png" group-title="Bosna",RTRS
 https://parh.rtrs.tv/tv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.b1tv.ba/wp-content/uploads/2018/11/Logo-finish-veliki-300x300.png" group-title="Bosna",B1
@@ -1060,56 +1060,6 @@ http://58.26.3.54/PLTV/88888888/224/3221226265/02.m3u8
 https://live.23video.com/live/amlst:lpfmlf2dts1n00vb0kpqt9vpm1:16966825-2ca040dbfeea9e5cb868.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/TVM2.mt.png" group-title="Malta",TVM 2
 https://live.23video.com/live/amlst:d7k20htaq6gshnvfstela6jdk5:16973314-1185a91eaad15f019b1b.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/ONE.mt.png" group-title="Malta",One
-http://s3.smashmalta.com:82/live/smash/smash/33.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/NETTV.mt.png" group-title="Malta",Net
-http://s3.smashmalta.com:82/live/smash/smash/34.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/SmashTV.mt.png" group-title="Malta",Smash TV
-http://s3.smashmalta.com/hls/smash/smash.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/SmashTV.mt.png" group-title="Malta",Smash Music
-http://s3.smashmalta.com:82/live/smash/smash/8.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/SmashTV.mt.png" group-title="Malta",Smash Jazz
-http://s3.smashmalta.com:82/live/smash/smash/10.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/SmashTV.mt.png" group-title="Malta",Smash Country
-http://s3.smashmalta.com:82/live/smash/smash/12.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/SmashTV.mt.png" group-title="Malta",TV Shop Channel
-http://s3.smashmalta.com:82/live/smash/smash/14.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/SmashTV.mt.png" group-title="Malta",Smash Food
-http://s3.smashmalta.com:82/live/smash/smash/15.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/SmashTV.mt.png" group-title="Malta",Smash Sports
-http://s3.smashmalta.com:82/live/smash/smash/17.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/SmashTV.mt.png" group-title="Malta",Smash Politika
-http://s3.smashmalta.com:82/live/smash/smash/19.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/SmashTV.mt.png" group-title="Malta",Smash 7 News
-http://s3.smashmalta.com:82/live/smash/smash/29.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/SmashTV.mt.png" group-title="Malta",Smash Retro
-http://s3.smashmalta.com:82/live/smash/smash/48.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/SmashTV.mt.png" group-title="Malta",Smash Entertainment
-http://s3.smashmalta.com:82/live/smash/smash/27.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/SmashTV.mt.png" group-title="Malta",Smash Cam
-http://s3.smashmalta.com:82/live/smash/smash/21.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/SmashTV.mt.png" group-title="Malta",Mr Fish Tv
-http://s3.smashmalta.com:82/live/smash/smash/23.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/SmashTV.mt.png" group-title="Malta",Smash Rock
-http://s3.smashmalta.com:82/live/smash/smash/25.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/SmashTV.mt.png" group-title="Malta",Erga Lura
-http://s3.smashmalta.com:82/live/smash/smash/30.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/SmashTV.mt.png" group-title="Malta",MTU
-http://s3.smashmalta.com:82/live/smash/smash/26.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.riveroflovemalta.org/assets/images/river-of-love-png-246x99.png" group-title="Malta",River Christian Channel
-http://s3.smashmalta.com:82/live/smash/smash/31.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/SmashTV.mt.png" group-title="Malta",Smash Radio
-http://s3.smashmalta.com:82/live/smash/smash/35.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/SmashTV.mt.png" group-title="Malta",Rock Radio
-http://s3.smashmalta.com:82/live/smash/smash/37.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/SmashTV.mt.png" group-title="Malta",Retro Radio
-http://s3.smashmalta.com:82/live/smash/smash/36.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/SmashTV.mt.png" group-title="Malta",Alternative Radio
-http://s3.smashmalta.com:82/live/smash/smash/38.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/SmashTV.mt.png" group-title="Malta",Smash House of Rock
-http://s3.smashmalta.com:82/live/smash/smash/57.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mt/SmashTV.mt.png" group-title="Malta",Smash Explore
-http://s3.smashmalta.com:82/live/smash/smash/58.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mk/MRT1.mk.png" group-title="Македонија",MRT 1
 http://51.178.133.43:8081/tvstanici/6/chunks.m3u8
