@@ -843,77 +843,76 @@ http://163.172.29.246:8081/globalbd/colorsbangla/chunks.m3u8
 #EXTINF:-1 tvg-id="ZBC.IN" tvg-logo="https://static.epg.best/in/ZeeBangla.in.png" group-title="印度精选",Zee Bangla Cinema
 http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-ID="TF1.FR" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="Europe",TF1 (France)
+#EXTINF:-1 tvg-ID="TF1.FR" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="Europe",TF1(France)
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:-1 tvg-id="FR2.FR" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="Europe",France 2 (France)
+#EXTINF:-1 tvg-id="FR2.FR" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="Europe",France 2(France)
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
-#EXTINF:-1 tvg-id="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Europe",TV5 Monde Asie (France)
+#EXTINF:-1 tvg-id="TV5.Asia" tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Europe",TV5 Monde Asie(France)
 https://tv5asiehls-i.akamaihd.net/hls/live/630201/tv5asiehls/index.m3u8
 
-#EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Europe",Das Erste (Germany)
+#EXTINF:-1 tvg-id="DAS.DE" tvg-logo="http://www.daserste.de/mediasrc/img/tv/ard/ard-daserste-logo.png" group-title="Europe",Das Erste(Germany)
 http://51.52.156.23:8888/http/009
-#EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="Europe",One (Germany)
+#EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="Europe",One(Germany)
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forwarded-For=91.197.29.78
-#EXTINF:-1 tvg-id="KIK.DE" tvg-logo="http://static.epg.best/de/Kika.de.png" group-title="Europe",Kika (Germany)
+#EXTINF:-1 tvg-id="KIK.DE" tvg-logo="http://static.epg.best/de/Kika.de.png" group-title="Europe",Kika(Germany)
 https://kikageohls-i.akamaihd.net/hls/live/1006268/livetvkika_de/master.m3u8|X-Forwarded-For=91.197.29.78
 
-#EXTINF:-1 tvg-id="CA5.IT" tvg-logo="https://static.epg.best/it/Canale5.it.png" group-title="Europe",Canale 5 (Italy)
+#EXTINF:-1 tvg-id="CA5.IT" tvg-logo="https://static.epg.best/it/Canale5.it.png" group-title="Europe",Canale 5(Italy)
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8
-#EXTINF:-1 tvg-id="IT1.IT" tvg-logo="https://static.epg.best/it/Italia1.it.png" group-title="Europe",Italia 1 (Italy)
+#EXTINF:-1 tvg-id="IT1.IT" tvg-logo="https://static.epg.best/it/Italia1.it.png" group-title="Europe",Italia 1(Italy)
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8
-#EXTINF:-1 tvg-id="RA3.IT" tvg-logo="https://www.raisport.rai.it/dl/img/2019/10/1600x900_1571057814544.Rai_3_HD_Logo_RGB.jpg" group-title="Europe",Rai 3 (Italy)
+#EXTINF:-1 tvg-id="RA3.IT" tvg-logo="https://www.raisport.rai.it/dl/img/2019/10/1600x900_1571057814544.Rai_3_HD_Logo_RGB.jpg" group-title="Europe",Rai 3(Italy)
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AT3.ES" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="Europe",Antena 3 (Spain)
+#EXTINF:-1 tvg-id="AT3.ES" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="Europe",Antena 3(Spain)
 http://cdn2.interlibre.net/hls/149/index.m3u8
-#EXTINF:-1 tvg-id="LA1.ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="Europe",LA 1 (Spain)
+#EXTINF:-1 tvg-id="LA1.ES" tvg-logo="https://static.epg.best/es/LA1.es.png" group-title="Europe",LA 1(Spain)
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
-#EXTINF:-1 tvg-id="TEL.ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="Europe",Telecinco (Spain)
+#EXTINF:-1 tvg-id="TEL.ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="Europe",Telecinco(Spain)
 http://cdn2.interlibre.net/hls/190/index.m3u8
 
-#EXTINF:-1 tvg-id="1RU.RU" tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="Europe",Channel 1 (Russia)
+#EXTINF:-1 tvg-id="1RU.RU" tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="Europe",Channel 1(Russia)
 https://s1.idata.uz/stch_temp23/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RS1.RU" tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="Europe",Russia 1 (Russia)
+#EXTINF:-1 tvg-id="RS1.RU" tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="Europe",Russia 1(Russia)
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 
-#EXTINF:-1 tvg-id="RT1.PT" tvg-logo="https://static.epg.best/pt/Rtp1.pt.png" group-title="Europe",RTP 1 (Portugal)
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
-
-#EXTINF:-1 tvg-id="SIC.PT" tvg-logo="https://static.epg.best/pt/Sic.pt.png" group-title="Europe",SIC (Portugal)
-http://live.impresa.pt/live/sic/sic.m3u|X-Forwarded-For=94.46.163.111
-
-#EXTINF:-1 tvg-id="RT1.AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/1920px-RTSH_1_HD_%282020_Logo%29.svg.png" group-title="Europe",RTSH 1 (Albania)
+#EXTINF:-1 tvg-id="RT1.AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/1920px-RTSH_1_HD_%282020_Logo%29.svg.png" group-title="Europe",RTSH 1(Albania)
 http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
-#EXTINF:-1 tvg-id="EEN.BE" tvg-logo="https://static.epg.best/be/een.be.png" group-title="Europe",één (Belgium)
+#EXTINF:-1 tvg-id="EEN.BE" tvg-logo="https://static.epg.best/be/een.be.png" group-title="Europe",één(Belgium)
 https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/.m3u8?hd
-#EXTINF:-1 tvg-id="NOV.CZ" tvg-logo="https://static.epg.best/cz/NovaTV.cz.png" group-title=Europe",Nova (Czech Republic)
+#EXTINF:-1 tvg-id="NOV.CZ" tvg-logo="https://static.epg.best/cz/NovaTV.cz.png" group-title=Europe",Nova(Czech Republic)
 https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/slo/live_hq.m3u8
-#EXTINF:-1 tvg-id="HR1.HR" tvg-logo="https://static.epg.best/hr/Htv1.hr.png" group-title="Europe",HRT 1 (Croatia)
+#EXTINF:-1 tvg-id="HR1.HR" tvg-logo="https://static.epg.best/hr/Htv1.hr.png" group-title="Europe",HRT 1(Croatia)
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
-#EXTINF:-1 tvg-id="DR1.DK" tvg-logo="https://static.epg.best/dk/DR1.dk.png" group-title="Europe",DR 1 (Denmark)
+#EXTINF:-1 tvg-id="DR1.DK" tvg-logo="https://static.epg.best/dk/DR1.dk.png" group-title="Europe",DR 1(Denmark)
 https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
-#EXTINF:-1 tvg-id="ETV.EE" tvg-logo="https://static.epg.best/ee/ETV.ee.png" group-title="Europe",ETV (Estonia)
+#EXTINF:-1 tvg-id="ETV.EE" tvg-logo="https://static.epg.best/ee/ETV.ee.png" group-title="Europe",ETV(Estonia)
 https://sb.err.ee/live/etv.m3u8
-#EXTINF:-1 tvg-id="AN1.GR" tvg-logo="http://www.worldtvpc.com/onlinevideosites/img/ant1.jpg" group-title="Europe",ANT 1 (Greece)
+#EXTINF:-1 tvg-id="AN1.GR" tvg-logo="http://www.worldtvpc.com/onlinevideosites/img/ant1.jpg" group-title="Europe",ANT 1(Greece)
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
 #EXTINF:-1 tvg-id="LRT.LT" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/bf/LRT_Lituanica.png" group-title="Europe",LRT Lituanica
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
-#EXTINF:-1 tvg-id="BVN.NL" tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="Europe",BVN (Netherlands)
+#EXTINF:-1 tvg-id="BVN.NL" tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="Europe",BVN(Netherlands)
 https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="1TV.KZ" tvg-logo="https://1tv.kz/wp-content/uploads/2020/01/1TV_02.png" group-title="Europe",Первый канал Евразия (Kazahstan)
+#EXTINF:-1 tvg-id="1TV.KZ" tvg-logo="https://1tv.kz/wp-content/uploads/2020/01/1TV_02.png" group-title="Europe",Первый канал Евразия(Kazahstan)
 https://1tvkz-stream.daitsuna.net/1tvkz/1tv_720/index.m3u8
-#EXTINF:-1 tvg-id="PO1.PL" tvg-logo="https://static.epg.best/pl/Polsat.pl.png" group-title="Europe",Polsat 1 (Poland)
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk1.png" group-title="Europe",RTK 1(Kosovo)
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PO1.PL" tvg-logo="https://static.epg.best/pl/Polsat.pl.png" group-title="Europe",Polsat 1(Poland)
 http://207.110.52.61:8080/s/hls/5/9584/polsat_266/1/1/index.m3u8
-#EXTINF:-1 tvg-id="NR1.NO" tvg-logo="https://static.epg.best/no/NRK1.no.png" group-title="Europe",NRK 1 (Norway)
+#EXTINF:-1 tvg-id="NR1.NO" tvg-logo="https://static.epg.best/no/NRK1.no.png" group-title="Europe",NRK 1(Norway)
 https://nrk1us-f.akamaihd.net/i/nrk1us_0@102847/master.m3u8|X-Forwarded-For=5.249.230.1
-
-#EXTINF:-1 tvg-id="TVI.RO" tvg-logo="http://tvri.tvr.ro/images/logo_main_tvri.png" group-title="Europe",TVR International (Romania)
+#EXTINF:-1 tvg-id="RT1.PT" tvg-logo="https://static.epg.best/pt/Rtp1.pt.png" group-title="Europe",RTP 1(Portugal)
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|User-Agent="Mozilla/5.0(iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4(KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
+#EXTINF:-1 tvg-id="TVI.RO" tvg-logo="http://tvri.tvr.ro/images/logo_main_tvri.png" group-title="Europe",TVR International(Romania)
 https://mn-nl.mncdn.com/tvri_test/smil:tvri_test.smil/chunklist_b1120000.m3u8
-#EXTINF:-1 tvg-id="JOJ.SK" tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="Europe",Joj (Slovakia)
+#EXTINF:-1 tvg-id="JOJ.SK" tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="Europe",Joj(Slovakia)
 http://nn1.joj.sk/hls/joj-720.m3u8
-#EXTINF:-1 tvg-id="SV1.SE" tvg-logo="https://static.epg.best/se/SVT1.se.png" group-title="Europe",SVT 1 (Sweden)
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.rtvslo.si/_static/novi/logo/sm_tvslo1-dark-bg.png" group-title="Europe",Slovenija 1(Slovenia)
+https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/chunklist_b2328000_DVR.m3u8
+#EXTINF:-1 tvg-id="SV1.SE" tvg-logo="https://static.epg.best/se/SVT1.se.png" group-title="Europe",SVT 1(Sweden)
 http://185.19.191.12:8090/SVT1/index.m3u8
-#EXTINF:-1 tvg-id="UA1.UA" tvg-logo="https://ukrtvr.org/images/Naz_TV_RADIO/ua-pershyi.png" group-title="Europe",UA:Перший (Ukraine)
+#EXTINF:-1 tvg-id="UA1.UA" tvg-logo="https://ukrtvr.org/images/Naz_TV_RADIO/ua-pershyi.png" group-title="Europe",UA:Перший(Ukraine)
 http://playlist.hmara.tv/4a8a78be/9a3b315d527540df23f30ec83a642d6376de4416.m3u8
 
 #EXTINF:-1 tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="Middle East",MBC 1(Saudi Arabia)
