@@ -465,50 +465,134 @@ https://livetv.farsiland.com/tv3.m3u8
 https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://live.irib.ir/uploads/channel/5.png" group-title="العراق",IRIB 5
 https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/Horizon.ir.png" group-title="العراق",IRIB Ofogh
-https://bozztv.com/36bay2/gin/giniko_iribofogh_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/AmoozeshFarsi.ir.png" group-title="العراق",IRIB Amoozesh
 https://bozztv.com/36bay2/gin/giniko_iribamoozesh_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alalamtv.net/sites/2-1/style/image/logo_new_alalam.png" group-title="أنباء",IRIB Al-Alam
 https://live2.alalamtv.net/live/Alalam_high/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/Breeze.ir.png" group-title="العراق",IRIB Nasim
-http://live.farsiland.com/nasim/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/tr/StarTV.tr.png" group-title="العراق",IRIB Fars
-http://cdn1.live.irib.ir:1935/channel-live/smil:fars/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://jjtvn.ir/img/jam/header.jpg" group-title="العراق",IRIB Jame Jam
-http://cdn1.live.irib.ir:1935/channel-live/smil:jjtvn1/chunklist_b307200_slFa.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/IRIB_Shoma_TV%27s_new_logo.png/200px-IRIB_Shoma_TV%27s_new_logo.png" group-title="أنباء",Shoma TV Network
-https://sdm.telewebion.com/live/shoma/shoma-480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/a/a1/IRINN_LOGO_IRIB.svg/200px-IRINN_LOGO_IRIB.svg.png" group-title="أنباء",IRIB Irinn
-https://sdm.telewebion.com/live/irinn/irinn-480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/Watch.ir.png" group-title="أنباء",Tamasha
-https://sdm.telewebion.com/live/tamasha/tamasha-480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://salamattv.ir/img/logob5.png" group-title="أنباء",IRIB Salamat
-https://sdm.telewebion.com/live/salamat/salamat-480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/QuranFarsi.ir.png" group-title="أنباء",IRIB Quran
-https://sdm.telewebion.com/live/quran/quran-480p/index.m3u8
-
-
-#https://sdm.telewebion.com/live/sabz/sabz_dvr-576p/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/El4Ymh6.png" group-title="Movies",iFILM Persian 1
-https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.ifilmtv.com/Content/Intro/Layer7.png" group-title="العراق",iFILM Persian 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/El4Ymh6.png" group-title="Movies",iFILM
+https://sdm.telewebion.com/live/ifilm/ifilm_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ifilmtv.com/Content/Intro/Layer7.png" group-title="العراق",iFILM Farsi
 https://live1.presstv.com/live/ifilm2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ifilmtv.com/Content/Intro/Layer7.png" group-title="العراق",iFILM Arabic
 https://live1.presstv.com/live/ifilmar.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.ifilmtv.com/Content/Intro/Layer7.png" group-title="العراق",iFILM English
 https://live1.presstv.com/live/ifilmen.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/VarzeshFarsi.ir.png" group-title="العراق",IRIB Varzesh
-https://livetv.farsiland.com/varzesh.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="العراق",MBC Persia
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.irinn.ir/client/themes/fa/main/img/r_logo4.png" group-title="أنباء",IRIB Irinn
+https://sdm.telewebion.com/live/irinn/irinn-480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/irankala.png" group-title="أنباء",Iran Kala
+https://sdm.telewebion.com/live/irankala/irankala_dvr-576p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hispantv.com/Views/Assets/img/logo.png" group-title="العراق",Hispan TV
 https://live1.presstv.com/live/hispan_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://jjtvn.ir/img/jam/header.jpg" group-title="أنباء",IRIB Jame Jam
+http://cdn1.live.irib.ir:1935/channel-live/smil:jjtvn1/chunklist_b307200_slFa.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/MostanadFarsi.ir.png" group-title="أنباء",IRIB Mostanad
+https://sdm.telewebion.com/live/mostanad/mostanad_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/Breeze.ir.png" group-title="العراق",IRIB Nasim
+https://sdm.telewebion.com/live/nasim/nasim_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/NamayeshFarsi.ir.png" group-title="أنباء",IRIB Namayesh
+https://sdm.telewebion.com/live/namayesh/namayesh_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.imvbox.com/channels/2f1016467f1d8553c71b7d57ea748303.png" group-title="أنباء",IRIB Pooya
+https://sdm.telewebion.com/live/pooya/pooya_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/QuranFarsi.ir.png" group-title="أنباء",IRIB Quran
+https://sdm.telewebion.com/live/quran/quran-480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/Horizon.ir.png" group-title="أنباء",IRIB Ofogh
+https://bozztv.com/36bay2/gin/giniko_iribofogh_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://omidtv.ir/img/omid-arm-naam2.jpg" group-title="أنباء",IRIB Omid
+https://sdm.telewebion.com/live/omid/omid_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://salamattv.ir/img/logob5.png" group-title="أنباء",IRIB Salamat
+https://sdm.telewebion.com/live/salamat/salamat-480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/shiran.png" group-title="أنباء",IRIB Shiran
+https://sdm.telewebion.com/live/shiran/shiran_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/IRIB_Shoma_TV%27s_new_logo.png/200px-IRIB_Shoma_TV%27s_new_logo.png" group-title="أنباء",Shoma TV Network
+https://sdm.telewebion.com/live/shoma/shoma-480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/Watch.ir.png" group-title="أنباء",IRIB Tamasha
+https://sdm.telewebion.com/live/tamasha/tamasha-480p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/ir/VarzeshFarsi.ir.png" group-title="أنباء",IRIB Varzesh
+https://livetv.farsiland.com/varzesh.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/abadan.png" group-title="أنباء",IRIB Abadan
+https://sdm.telewebion.com/live/abadan/abadan_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/alborz.png" group-title="أنباء",IRIB Aflak
+https://sdm.telewebion.com/live/aflak/aflak_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/aftab.png" group-title="أنباء",IRIB Aftab
+https://sdm.telewebion.com/live/aftab/aftab_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/alborz.png" group-title="أنباء",IRIB Alborz
+https://sdm.telewebion.com/live/alborz/alborz_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/atrak.png" group-title="أنباء",IRIB Atrak
+https://sdm.telewebion.com/live/atrak/atrak_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/azarbayjangharbi.png" group-title="أنباء",IRIB Azarbayjangharbi
+https://sdm.telewebion.com/live/azarbayjangharbi/azarbayjangharbi_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/baran.png" group-title="أنباء",IRIB Baran
+https://sdm.telewebion.com/live/baran/baran_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/bushehr.png" group-title="أنباء",IRIB Bushehr
+https://sdm.telewebion.com/live/bushehr/bushehr_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/dena.png" group-title="أنباء",IRIB Dena
+https://sdm.telewebion.com/live/dena/dena_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/esfahan.png" group-title="أنباء",IRIB Esfahan
+https://sdm.telewebion.com/live/esfahan/esfahan_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/eshragh.png" group-title="أنباء",IRIB Eshragh
+https://sdm.telewebion.com/live/eshragh/eshragh_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/fars.png" group-title="أنباء",IRIB Fars
+https://sdm.telewebion.com/live/fars/fars_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/hamoon.png" group-title="أنباء",IRIB Hamoon
+https://sdm.telewebion.com/live/hamoon/hamoon_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/ilam.png" group-title="أنباء",IRIB Ilam
+https://sdm.telewebion.com/live/ilam/ilam_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/jam.png" group-title="أنباء",IRIB Jam
+https://sdm.telewebion.com/live/jam/jam_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/javaneh.png" group-title="أنباء",IRIB Javaneh
+https://sdm.telewebion.com/live/javaneh/javaneh_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/jahanbin.png" group-title="أنباء",IRIB Jahanbin
+https://sdm.telewebion.com/live/jahanbin/jahanbin_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/kerman.png" group-title="أنباء",IRIB Kerman
+https://sdm.telewebion.com/live/kerman/kerman_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/alborz.png" group-title="أنباء",IRIB Khalijefars
+https://sdm.telewebion.com/live/khalijefars/khalijefars_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/khavaran.png" group-title="أنباء",IRIB Khavaran
+https://sdm.telewebion.com/live/khavaran/khavaran_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/khavaran.png" group-title="أنباء",IRIB Khorasanrazavi
+https://sdm.telewebion.com/live/khorasanrazavi/khorasanrazavi_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/khavaran.png" group-title="أنباء",IRIB Khoozestan
+https://sdm.telewebion.com/live/khoozestan/khoozestan_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/ilam.png" group-title="أنباء",IRIB Kish
+https://sdm.telewebion.com/live/kish/kish_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/kerman.png" group-title="أنباء",IRIB Kordestan
+https://sdm.telewebion.com/live/kordestan/kordestan_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/qazvin.png" group-title="أنباء",IRIB Qazvin
+https://sdm.telewebion.com/live/qazvin/qazvin_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/nama.png" group-title="أنباء",IRIB Mahabad
+https://sdm.telewebion.com/live/mahabad/mahabad_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/nama.png" group-title="أنباء",IRIB Nama
+https://sdm.telewebion.com/live/nama/nama_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/nava.png" group-title="أنباء",IRIB Nava
+https://sdm.telewebion.com/live/nava/nava_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/noor.png" group-title="أنباء",IRIB Noor
+https://sdw.telewebion.com/live/noor/noor_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/sabz.png" group-title="أنباء",IRIB Sabz
+https://sdm.telewebion.com/live/sabz/sabz_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/sabalan.png" group-title="أنباء",IRIB Sabalan
+https://sdm.telewebion.com/live/sabalan/sabalan_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/Sahand.png" group-title="أنباء",IRIB Sahand
+https://sdm.telewebion.com/live/sahand/sahand_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/semnan.png" group-title="أنباء",IRIB Semnan
+https://sdm.telewebion.com/live/semnan/semnan_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/sepehr.png" group-title="أنباء",IRIB Sepehr
+https://sdm.telewebion.com/live/sepehr/sepehr_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/sina.png" group-title="أنباء",IRIB Sina
+https://sdm.telewebion.com/live/sina/sina_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/taban.png" group-title="أنباء",IRIB Taban
+https://sdm.telewebion.com/live/taban/taban_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tabarestan.png" group-title="أنباء",IRIB Tabarestan
+https://sdm.telewebion.com/live/tabarestan/tabarestan_dvr-576p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/sabz.png" group-title="أنباء",IRIB Zagros
+https://sdm.telewebion.com/live/zagros/zagros_dvr-576p/index.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="العراق",MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://up.vbiran.ir/uploads/33487156717230316870_logo.png" group-title="العراق",4U TV
 http://192.99.102.14:8080/hls/4utv.m3u8
@@ -534,20 +618,22 @@ https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_p
 http://vid1.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://canadastartv.com/resimler/sistem/logo.png" group-title="العراق",Canada Star
 https://live.livestreamtv.ca/canadastartv/smil:canadastartv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://soltaan.com/wp-content/uploads/2019/09/cinefilm.png" group-title="العراق",Cine Film
-https://soltaan.com/iptv/c1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://soltaan.com/wp-content/uploads/2019/09/cineseries.png" group-title="العراق",Cine Series
-https://soltaan.com/iptv/c2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://ebc1.tv/wp-content/uploads/2016/11/logoo.jpg" group-title="العراق",EBC 1
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://esraeurope.org/wp-content/uploads/2017/12/logo-mark.png" group-title="العراق",Esra
-https://ir2.live21.ir/hls2/esratv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://channels.roku.com/images/1f1d73fcce5245c48a21dfcfbebea2ef-hd.jpg" group-title="العراق",Ganjehozoor
 https://topfi.ios.internapcdn.net/topfi/live_1/Test/chunklist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemtv.png?" group-title="العراق",GEM TV
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/24b.png" group-title="العراق",GEM 24B
-https://d2e40kvaojifd6.cloudfront.net/stream/24b/chunklist_w1808578907.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-bollywood.png" group-title="العراق",GEM Bollywood
+https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gemusa.png" group-title="العراق",GEM Academy
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_az.png" group-title="العراق",GEM AZ
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_az/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_arabia.png" group-title="العراق",GEM Arabia
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gembollywood.png" group-title="العراق",GEM Bollywood
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-classic.png" group-title="العراق",GEM Classic
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist.m3u8
@@ -555,27 +641,43 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist.m3u8
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-drama.png" group-title="العراق",GEM Drama
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-food.png" group-title="العراق",GEM Food
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-fit.png" group-title="العراق",GEM Fit
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-film.png" group-title="العراق",GEM Film
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_film/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-life.png" group-title="العراق",GEM Life
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_life/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-latino.png" group-title="العراق",GEM Latino
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_latino/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-junior.png" group-title="العراق",GEM Junior
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-kids.png" group-title="العراق",GEM Kids
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-series.png?" group-title="العراق",Gem Series
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-kids.png" group-title="العراق",GEM Property
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem_nature.png" group-title="العراق",GEM Nature
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-series.png" group-title="العراق",Gem Series
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-usa.png" group-title="العراق",GEM TV
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemusa-icon.png" group-title="العراق",GEM USA
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemusa-icon.png" group-title="العراق",Gem Travel
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/gemusa-icon.png" group-title="العراق",Gem Modern Economy
-https://d2e40kvaojifd6.cloudfront.net/stream/modern_enonomy/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.gemonline.tv/Assets/channels-box/gem_travel.png" group-title="العراق",Gem Travel
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.gemonline.tv/Assets/channels-box/modern_economy.png" group-title="العراق",Gem Modern Economy
+https://d2e40kvaojifd6.cloudfront.net/stream/modern_enonomy/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/max.png" group-title="العراق",Maxx
+http://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/mifa.png" group-title="العراق",Mifa
+https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/onyx.png" group-title="العراق",Onyx
+https://d2e40kvaojifd6.cloudfront.net/stream/onyx/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/river.pn" group-title="العراق",River
+https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/rubix.png" group-title="العراق",Rubix
+https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.parsatv.com/index_files/channels/hmn.png" group-title="العراق",Health Media Network
 https://livestream.5centscdn.com/cls092118/8f8400b79584fa2a1315aa5e7612d4f3.sdp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.hodhodfarsi.tv/style-index/hodhod-logo.png" group-title="العراق",Hodhod
-http://51.158.167.169/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.hodhodfarsi.tv/style-index/hodhod-logo.png" group-title="العراق",HodhodhD
-http://nl.live21.ir:8080/hls2/hodhodfarsi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2018/04/Iran-International-Channel.png" group-title="العراق",Iran International
 https://live.playstop.me/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imamhussein.tv/img/TV%2001.png" group-title="العراق",Imamhussein TV 1 (Farsi)
@@ -594,14 +696,8 @@ https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 https://5acf9f9415a10.streamlock.net:443/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://maahtvplus.com/wp-content/uploads/2019/02/mahtvplus-logo.png" group-title="العراق",Movie Plus
 http://51.15.113.183/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/max.png" group-title="العراق",Maxx
-http://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/mifa.png" group-title="العراق",Mifa
-https://d2e40kvaojifd6.cloudfront.net/stream/mifa/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.navahang.com/apple-touch-icon.png" group-title="العراق",Navahang TV
 http://163.172.134.85/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/onyx.png" group-title="العراق",Onyx
-https://d2e40kvaojifd6.cloudfront.net/stream/onyx/chunklist_w1197922140.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/97ATQV7.png" group-title="العراق",OX Film
 http://51.158.103.244/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/ParsTV.png" group-title="العراق",Pars TV
@@ -639,10 +735,6 @@ http://163.172.128.92/hls/stream.m3u8
 https://stream.persiantv1.com/ptv1/playlist1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.pmc.tv/img/logo-light@2x.png" group-title="العراق",PMC
 http://51.15.139.108/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/river.pn" group-title="العراق",River
-https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.gemonline.tv/Assets/channels-box/rubix.png" group-title="العراق",Rubix
-https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Poker TV
 http://51.15.254.60/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://persianagroup.tv/wp-content/uploads/2019/05/website2-1.png" group-title="العراق",Poker TV Arabic
