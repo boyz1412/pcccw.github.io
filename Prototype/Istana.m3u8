@@ -431,7 +431,7 @@ https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SPC.AE" tvg-logo="https://static.epg.best/sa/SpaceToon.sa.png" group-title="عربى",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ROT.EG" tvg-logo="https://static.epg.best/eg/RotanaDrama.eg.png" group-title="عربى",Rotana Drama
-https://rotana.hibridmedia.com/rotana/drama_dabr/rotana/drama_720p/chunks.m3u8
+https://hiplayer.hibridcdn.net/p/rotana-drama/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WAN.SA" tvg-logo="https://www.mbc.net/en/corporate/channels/wanasah/main/0/imageBinary/dae96fdca2c9b6a0fcc3e5787d3a64adbb94ef2f/wanasah1.jpg" group-title="عربى",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
@@ -452,7 +452,7 @@ http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 
 #EXTINF:-1 tvg-id="LBC.LB" tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png" group-title="عربى",LBC International
-https://rotana.hibridmedia.com/rotana/lbc_dabr/rotana/lbc_1080p/chunks.m3u8
+https://hiplayer.hibridcdn.net/p/rotana-lbc/playlist.m3u8
 #EXTINF:-1 tvg-id="TR1.TR" tvg-logo="https://static.epg.best/tr/TRT1.tr.png" group-title="عربى",TRT 1
 https://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="STR.TR" tvg-logo="https://static.epg.best/tr/StarTV.tr.png" group-title="عربى",Star
