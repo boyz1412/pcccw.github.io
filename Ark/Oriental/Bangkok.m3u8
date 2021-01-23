@@ -17,7 +17,7 @@ https://tglmp03.akamaized.net/out/v1/ff7074666bce40c9887ba518d3fc7a85/manifest.m
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY25hU19kYXNoX3dlYl9kcm0iLCJmaWxlcyI6IjU3NTQxNDgiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=AwRVi%2FH%2BlkS0uH3gDvZFjXDH3bM%3D&
-#EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png" group-title="Singapore",CNA (Singapore)
+#EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png" group-title="Singapore",CNA(Singapore)
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png" group-title="Singapore",CNA International
