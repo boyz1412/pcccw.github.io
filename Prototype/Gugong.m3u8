@@ -908,7 +908,7 @@ http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
 
 #EXTINF:-1 tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="Middle East",MBC 1(Saudi Arabia)
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
-#EXTINF:-1 tvg-id="SA1.SA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ksa-channel_logo.png" group-title="Middle East",Al Saudiya(Saudi Arabia)
+#EXTINF:-1 tvg-id="SA1.SA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/SaudiTV.png" group-title="Middle East",Al Saudiya(Saudi Arabia)
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1 tvg-id="SUN.SA" tvg-logo="https://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="Middle East",Makkah TV(Saudi Arabia)
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8
