@@ -689,7 +689,7 @@ https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mp
 
 
 #EXTINF:-1 tvg-id="BB1.UK" tvg-logo="http://static.epg.best/gb/BBC1.uk.png" group-title="英格兰精选",BBC 1
-http://51.52.156.23:8888/http/011
+http://51.52.156.25:8888/http/001
 #EXTINF:-1 tvg-id="BB2.UK" tvg-logo="http://static.epg.best/gb/BBC2.uk.png" group-title="英格兰精选",BBC 2
 http://51.52.156.23:8888/http/012
 #EXTINF:-1 tvg-id="BB4.UK" tvg-logo="http://static.epg.best/gb/BBC4.uk.png" group-title="英格兰精选",BBC 4
