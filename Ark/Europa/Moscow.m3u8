@@ -20,11 +20,11 @@ http://51.52.156.23:8888/http/010
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/RTRPlaneta.ru.png" group-title="Россия",Planeta RTR
 https://s1.idata.uz/stch_temp8/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/RENTV.ru.png" group-title="Россия",Рен
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="MAT.RU" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="Россия",Матч
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 tvg-id="MAT.RU" tvg-logo="https://static.epg.best/ru/MatchTV.ru.png" group-title="Россия",Матч
-https://stream8.itv.uz/1089/index.m3u
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/MatchFutbol1.ru.png" group-title="Россия",Матч! Футбол 1
 https://s1.idata.uz/stch_temp4/tracks-v1a1/mono.m3u8
 
