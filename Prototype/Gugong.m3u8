@@ -883,6 +883,8 @@ https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de
 http://playlist.hmara.tv/4a8a78be/9a3b315d527540df23f30ec83a642d6376de4416.m3u8
 #EXTINF:-1 tvg-id="1TV.KZ" tvg-logo="https://1tv.kz/wp-content/uploads/2020/01/1TV_02.png" group-title="Europe",Первый канал Евразия (Kazahstan)
 https://1tvkz-stream.daitsuna.net/1tvkz/1tv_720/index.m3u8
+#EXTINF:-1 tvg-id="NOV.CZ" tvg-logo="https://static.epg.best/cz/NovaTV.cz.png" group-title=Europe",Nova(Czech Republic)
+https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/slo/live_hq.m3u8
 #EXTINF:-1 tvg-id="JOJ.SK" tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="Europe",Joj (Slovakia)
 http://nn1.joj.sk/hls/joj-720.m3u8
 #EXTINF:-1 tvg-id="PO1.PL" tvg-logo="https://static.epg.best/pl/Polsat.pl.png" group-title="Europe",Polsat 1 (Poland)
@@ -917,6 +919,7 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_
 
 #EXTINF:-1 tvg-id="TR1.TR" tvg-logo="https://static.epg.best/tr/TRT1.tr.png" group-title="Middle East",TRT 1(Turkey)
 https://tv-trt1.live.trt.com.tr/master.m3u8
+
 #EXTINF:-1 tvg-id="KAN.TR" tvg-logo="https://static.epg.best/tr/KanalD.tr.png" group-title="Middle East",Kanal D(Turkey)
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/playlist.m3u8
 #EXTINF:-1 tvg-id="STA.TR" tvg-logo="https://static.epg.best/tr/StarTV.tr.png" group-title="Middle East",Star(Turkey)
