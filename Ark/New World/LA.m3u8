@@ -28,13 +28,13 @@ https://media.cdn.adultswim.com/streams/playlists/live-stream.primary.v2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.roku.com/developer_channels/prod/b8d753f4a78f057b6fcf7f92cefc25ed76423cf46caf5056ae0e8e8b4194068b.png" group-title="USA/Canada",American Classics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png" group-title="USA/Canada",ABC 2 Baton Rouge (WBRZ)
+#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/8/86/WBRZ_Logo_2013.png" group-title="USA/Canada",ABC 2 Baton Rouge(WBRZ)
 http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static-11.sinclairstoryline.com/resources/assets/komo/images/social-images/station-social-komo-tv.jpg" group-title="USA/Canada",ABC 4 Seattle (KOMO)
+#EXTINF:-1 tvg-id="" tvg-logo="http://static-11.sinclairstoryline.com/resources/assets/komo/images/social-images/station-social-komo-tv.jpg" group-title="USA/Canada",ABC 4 Seattle(KOMO)
 https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/9/90/KMGH-TV_Logo.png/200px-KMGH-TV_Logo.png" group-title="USA/Canada",ABC 7 Denver (KMGH)
+#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/9/90/KMGH-TV_Logo.png/200px-KMGH-TV_Logo.png" group-title="USA/Canada",ABC 7 Denver(KMGH)
 https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8?
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/ABCWWSB.us.png" group-title="USA/Canada",ABC 7 Sarasota (WWSB)
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/ABCWWSB.us.png" group-title="USA/Canada",ABC 7 Sarasota(WWSB)
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 
 
@@ -83,7 +83,7 @@ https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_
 http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/vL9xupXA_mlmoorGfPCzYdsSBUdbOndg6rYU1NXVjt-bf8FaP9tkMa8EgeEcO5ytPjIartnfy8Qr" group-title="USA/Canada",CBS 4 Miami(WFOR)
 http://190.80.3.28/CBS/CBS.isml/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.boomtowncdn.com/wp-content/blogs.dir/161/files/2016/10/WRGB_CBS_6_News.svg_.png" group-title="USA/Canada",CBS 6 Albany (WRGB)
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.boomtowncdn.com/wp-content/blogs.dir/161/files/2016/10/WRGB_CBS_6_News.svg_.png" group-title="USA/Canada",CBS 6 Albany(WRGB)
 https://content.uplynk.com/channel/bba3e7da884a49bba96341ecf5128f0f.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://mediaweb.kirotv.com/photo/2018/09/24/kiro7_header_logo_152x60_13118164_ver1.0.png" group-title="USA/Canada",CBS 7 Seattle(KIRO)
 http://svc-lvanvato-cxtv-kiro.cmgvideo.com:80/kiro/1864k/index.m3u8
@@ -153,13 +153,13 @@ https://e10.habrox.xyz/ingestnb4s/foxdep/d.m3u8|Referer=https://sportsbay.org/em
 
 #EXTINF:-1 tvg-id="Fox.Asia" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="USA/Canada",Fox
 https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.fox23.com/pb/resources/images/cmg_icons/koki-logo.png" group-title="USA/Canada",FOX 23 Tulsa (KOKI)
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.fox23.com/pb/resources/images/cmg_icons/koki-logo.png" group-title="USA/Canada",FOX 23 Tulsa(KOKI)
 http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.wxxv25.com/wp-content/uploads/2018/01/logo-wide.png" group-title="USA/Canada",FOX 25 Gulfport (WXXVT)
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.wxxv25.com/wp-content/uploads/2018/01/logo-wide.png" group-title="USA/Canada",FOX 25 Gulfport(WXXVT)
 http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/logo-main-wfxt_1532037842427_12380292_ver1.0.png" group-title="USA/Canada",FOX 25 Boston (WFXT)
+#EXTINF:-1 tvg-id="" tvg-logo="http://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/logo-main-wfxt_1532037842427_12380292_ver1.0.png" group-title="USA/Canada",FOX 25 Boston(WFXT)
 http://svc-lvanvato-cxtv-wfxt.cmgvideo.com:80/wfxt/2564k/index.m3u8
-#EXTINF:-1 ch-id="" tvg-name="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG" group-title="USA/Canada",FOX 28 Savannah (WTGS)
+#EXTINF:-1 ch-id="" tvg-name="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/9/99/FOX28WTGS.PNG" group-title="USA/Canada",FOX 28 Savannah(WTGS)
 http://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
 
 
@@ -277,7 +277,7 @@ https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-p.m3
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://pmcvariety.files.wordpress.com/2016/10/mobcrush.jpg" group-title="USA/Canada",Mobcrush
 https://ott.mobcrush.com/hls/0/ott.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/043262_ee99d623fd06482b9336a107a1ea1b98~mv2_d_3300_2550_s_4_2.png" group-title="USA/Canada",MyNetwork Texas (KCWX)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wixstatic.com/media/043262_ee99d623fd06482b9336a107a1ea1b98~mv2_d_3300_2550_s_4_2.png" group-title="USA/Canada",MyNetwork Texas(KCWX)
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://phl17.com/wp-content/uploads/sites/7/2020/02/cropped-Untitled-1.png" group-title="USA/Canada",MyNetwork Philadelphia
 https://v-pi.mybtv.net/event/17.1/1280x720?start_time=0&end_time=2028&env=prd&uid=29375
@@ -288,9 +288,9 @@ http://65.79.240.140:86/playlist.m3u8?camera=1&quality=High
 https://lxlive-lh.akamaihd.net/i/LX_LIVE@148206/index_1080P_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://media.nbcnewyork.com/2019/09/New_York_On_Dark@3x-5.png" group-title="USA/Canada",NBC 4 New York(WNBC)
 http://87.120.36.62:8080/hls/streama120404/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://mediaweb.wpxi.com/theme/images/logo-main-wpxi.png" group-title="USA/Canada",NBC 11 Pittsburgh (WPXI)
+#EXTINF:-1 tvg-id="" tvg-logo="http://mediaweb.wpxi.com/theme/images/logo-main-wpxi.png" group-title="USA/Canada",NBC 11 Pittsburgh(WPXI)
 http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/b/bf/WVIT_Logo.png/330px-WVIT_Logo.png" group-title="USA/Canada",NBC 30 Connecticut (WVIT) 
+#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/thumb/b/bf/WVIT_Logo.png/330px-WVIT_Logo.png" group-title="USA/Canada",NBC 30 Connecticut(WVIT) 
 http://wvitlive-f.akamaihd.net/i/wvitb2_1@71164/index_1286_av-b.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://ftpcontent.worldnow.com/professionalservices/clients/news12/news12bx/images/news12bx-logo.png" group-title="USA/Canada",News 12 Bronx
@@ -357,7 +357,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestrea
 https://dcs-live.apis.anvato.net/server/play/8AkZMW1F8omdfnE0/rendition.m3u8?track=video-2&anvsid=i177471504-n03c6890d-6811-484d-ae1f-0128983c8d75&ts=1609385950&anvtrid=wa6645f7cc0678093056c3bdc97ba689
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/93/WMCN44.png" group-title="USA/Canada",WMCN 44
 https://v-pi.mybtv.net/event/44.1/1280x720?start_time=0&end_time=2026&env=prd&uid=29375
-#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/6/6b/WSVI_Logo.png" group-title="USA/Canada",WSVI-TV (Virgin Islands)
+#EXTINF:-1 tvg-id="" tvg-logo="http://upload.wikimedia.org/wikipedia/en/6/6b/WSVI_Logo.png" group-title="USA/Canada",WSVI-TV(Virgin Islands)
 http://dcunilive30-lh.akamaihd.net/i/dclive_1@534251/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/USANetwork.us.png" group-title="USA/Canada", USA Network
