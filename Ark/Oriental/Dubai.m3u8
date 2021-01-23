@@ -660,11 +660,11 @@ https://livestream.5centscdn.com/cls092118/8f8400b79584fa2a1315aa5e7612d4f3.sdp/
 https://live.playstop.me/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2018/04/Iran-International-Channel.png" group-title="ایران",Iran International
 http://51.210.199.47/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imamhussein.tv/img/TV%2001.png" group-title="ایران",Imamhussein TV 1 (Farsi)
+#EXTINF:-1 tvg-id="" tvg-logo="https://imamhussein.tv/img/TV%2001.png" group-title="ایران",Imamhussein TV 1(Farsi)
 https://fa.imamhusseintv.com/live/ih1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imamhussein.tv/img/TV%2002.png" group-title="ایران",Imamhussein TV 2 (Arabic)
+#EXTINF:-1 tvg-id="" tvg-logo="https://imamhussein.tv/img/TV%2002.png" group-title="ایران",Imamhussein TV 2(Arabic)
 https://ar.imamhusseintv.com/live/ih2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://imamhussein.tv/img/TV%2003.png" group-title="ایران",Imamhussein TV 3 (English)
+#EXTINF:-1 tvg-id="" tvg-logo="https://imamhussein.tv/img/TV%2003.png" group-title="ایران",Imamhussein TV 3(English)
 https://en.imamhusseintv.com/live/ih3.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://iranefarda.wpengine.netdna-cdn.com/wp-content/themes/jarida/images/global/logo-main-iranefarda.png" group-title="ایران",Iran-e Farda TV
@@ -1104,13 +1104,13 @@ https://live.al-zahratv.com/live/playlist.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/yoltv-hdtvler-8e0d.png" group-title="Türkiye",Yol TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvkanalfrekans.tk/wp-content/uploads/2018/12/BRT-HD-300x217.png" group-title="Türkiye",BRT 1 (Kıbrıs)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvkanalfrekans.tk/wp-content/uploads/2018/12/BRT-HD-300x217.png" group-title="Türkiye",BRT 1(Kıbrıs)
 http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.brtk.net/wp-content/uploads/2014/10/brt2-logo.jpg" group-title="Türkiye",BRT 2 Spor (Kıbrıs)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.brtk.net/wp-content/uploads/2014/10/brt2-logo.jpg" group-title="Türkiye",BRT 2 Spor(Kıbrıs)
 http://wms.brtk.net:1935/live/brt2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sc03ztl.png" group-title="Türkiye",BRT 3 (Kıbrıs)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sc03ztl.png" group-title="Türkiye",BRT 3(Kıbrıs)
 http://wms.brtk.net:1935/live/brt1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.televizyon.gen.tr/wp-content/uploads/2018/12/diyalog-tv-frekans%C4%B1.jpg" group-title="Türkiye",Diyalog TV (Kıbrıs)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i0.wp.com/www.televizyon.gen.tr/wp-content/uploads/2018/12/diyalog-tv-frekans%C4%B1.jpg" group-title="Türkiye",Diyalog TV(Kıbrıs)
 http://yayin3.canlitv.com:1935/live/diyalogtv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.ahitv.com.tr/images/logo.jpg" group-title="Türkiye",Ahi TV Kirsehir
