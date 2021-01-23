@@ -871,37 +871,29 @@ http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_2800_av-b.m3u8
 #EXTINF:-1 tvg-id="TEL.ES" tvg-logo="https://static.epg.best/es/Telecinco.es.png" group-title="Europe",Telecinco(Spain)
 http://cdn2.interlibre.net/hls/190/index.m3u8
 
-#EXTINF:-1 tvg-id="1RU.RU" tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="Europe",Channel 1(Russia)
-https://s1.idata.uz/stch_temp23/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RS1.RU" tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="Europe",Russia 1(Russia)
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-
 #EXTINF:-1 tvg-id="RT1.AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/1920px-RTSH_1_HD_%282020_Logo%29.svg.png" group-title="Europe",RTSH 1(Albania)
 http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
 #EXTINF:-1 tvg-id="EEN.BE" tvg-logo="https://static.epg.best/be/een.be.png" group-title="Europe",één(Belgium)
 https://live-cf-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/.m3u8?hd
-#EXTINF:-1 tvg-id="NOV.CZ" tvg-logo="https://static.epg.best/cz/NovaTV.cz.png" group-title=Europe",Nova(Czech Republic)
+
+#EXTINF:-1 tvg-id="NOV.CZ" tvg-logo="https://static.epg.best/cz/NovaTV.cz.png" group-title="Europe",Nova(Czech Republic)
 https://nova-live.ssl.cdn.cra.cz/channels/nova_avod/playlist/slo/live_hq.m3u8
 #EXTINF:-1 tvg-id="HR1.HR" tvg-logo="https://static.epg.best/hr/Htv1.hr.png" group-title="Europe",HRT 1(Croatia)
 http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
 #EXTINF:-1 tvg-id="DR1.DK" tvg-logo="https://static.epg.best/dk/DR1.dk.png" group-title="Europe",DR 1(Denmark)
 https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/index_3000_av-p.m3u8|X-Forwarded-For=77.66.34.57
-#EXTINF:-1 tvg-id="ETV.EE" tvg-logo="https://static.epg.best/ee/ETV.ee.png" group-title="Europe",ETV(Estonia)
-https://sb.err.ee/live/etv.m3u8
 #EXTINF:-1 tvg-id="AN1.GR" tvg-logo="http://www.worldtvpc.com/onlinevideosites/img/ant1.jpg" group-title="Europe",ANT 1(Greece)
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
-#EXTINF:-1 tvg-id="LRT.LT" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/bf/LRT_Lituanica.png" group-title="Europe",LRT Lituanica
-https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 #EXTINF:-1 tvg-id="BVN.NL" tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="Europe",BVN(Netherlands)
 https://bozztv.com/36bay2/gin/giniko_bvntv_1200kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="1TV.KZ" tvg-logo="https://1tv.kz/wp-content/uploads/2020/01/1TV_02.png" group-title="Europe",Первый канал Евразия(Kazahstan)
-https://1tvkz-stream.daitsuna.net/1tvkz/1tv_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.rtklive.com/sq/livestream/img/rtk1.png" group-title="Europe",RTK 1(Kosovo)
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="PO1.PL" tvg-logo="https://static.epg.best/pl/Polsat.pl.png" group-title="Europe",Polsat 1(Poland)
 http://207.110.52.61:8080/s/hls/5/9584/polsat_266/1/1/index.m3u8
 #EXTINF:-1 tvg-id="NR1.NO" tvg-logo="https://static.epg.best/no/NRK1.no.png" group-title="Europe",NRK 1(Norway)
 https://nrk1us-f.akamaihd.net/i/nrk1us_0@102847/master.m3u8|X-Forwarded-For=5.249.230.1
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/mk/MRT1.mk.png" group-title="Europe",MRT 1(North Macedonia)
+http://51.178.133.43:8081/tvstanici/6/chunks.m3u8
 #EXTINF:-1 tvg-id="RT1.PT" tvg-logo="https://static.epg.best/pt/Rtp1.pt.png" group-title="Europe",RTP 1(Portugal)
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|User-Agent="Mozilla/5.0(iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4(KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
 #EXTINF:-1 tvg-id="TVI.RO" tvg-logo="http://tvri.tvr.ro/images/logo_main_tvri.png" group-title="Europe",TVR International(Romania)
@@ -912,8 +904,40 @@ http://nn1.joj.sk/hls/joj-720.m3u8
 https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/chunklist_b2328000_DVR.m3u8
 #EXTINF:-1 tvg-id="SV1.SE" tvg-logo="https://static.epg.best/se/SVT1.se.png" group-title="Europe",SVT 1(Sweden)
 http://185.19.191.12:8090/SVT1/index.m3u8
-#EXTINF:-1 tvg-id="UA1.UA" tvg-logo="https://ukrtvr.org/images/Naz_TV_RADIO/ua-pershyi.png" group-title="Europe",UA:Перший(Ukraine)
+
+#EXTINF:-1 tvg-id="1RU.RU" tvg-logo="https://static.epg.best/ru/PervyyKanal.ru.png" group-title="USSR",Channel 1(Russia)
+https://s1.idata.uz/stch_temp23/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="RS1.RU" tvg-logo="https://static.epg.best/ru/Russia1.ru.png" group-title="USSR",Russia 1(Russia)
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
+#EXTINF:-1 tvg-id="R24.RU" tvg-logo="http://fanat.tv/images/tv/rossiya-24.png" group-title="Россия",Россия 24
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_24/playlist_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/am/Armenia1.am.png" group-title="USSR",H1(Armenia)
+https://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://yoda.az/a1/aztv_logo.png" group-title="USSR",Aztv(Azerbaijan)
+http://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/by/Belarus24.by.png"" group-title="USSR",Belarus 24(Belarus)
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 tvg-id="ETV.EE" tvg-logo="https://static.epg.best/ee/ETV.ee.png" group-title="USSR",ETV(Estonia)
+https://sb.err.ee/live/etv.m3u8
+#EXTINF:-1 tvg-logo="https://1tv.ge/app/themes/wi-theme/resources/assets/img/logo/ge.png" group-title="USSR",პირველი არხი(Georgia)
+http://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="LRT.LT" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/b/bf/LRT_Lituanica.png" group-title="USSRe",LRT Lituanica
+https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
+#EXTINF:-1 tvg-id="1TV.KZ" tvg-logo="https://1tv.kz/wp-content/uploads/2020/01/1TV_02.png" group-title="USSR",Первый канал Евразия(Kazahstan)
+https://1tvkz-stream.daitsuna.net/1tvkz/1tv_720/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.ktrk.kg/images/channels/nav/ktrk.png" group-title="USSR",КТРК(Kyrgyzstan)
+http://onlinetv.ktrk.kg:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/md/Moldova1.md.png" group-title="USSR",Moldova 1(Moldova)
+http://www.trm.md/live/MoldovaUnu1/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="http://www.tamby.info/tv-tadjikistana-online/images/tvt.png" group-title="USSR",Тоҷикистон(Tajikistan)
+http://185.121.2.6:8081/live/tvt1214/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/altyn_asyr_tv-webtvonlive-com.jpg" group-title="USSR",Altyn Asyr(Türkmenistan)
+https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8
+#EXTINF:-1 tvg-id="UA1.UA" tvg-logo="https://ukrtvr.org/images/Naz_TV_RADIO/ua-pershyi.png" group-title="USSR",UA:Перший(Ukraine)
 http://playlist.hmara.tv/4a8a78be/9a3b315d527540df23f30ec83a642d6376de4416.m3u8
+#EXTINF:-1 tvg-logo="https://www.mtrk.uz/modules/state/client/assets/image/0c354d80-4e4f-4194-85dd-1803c06e1b9b_thumb.png" group-title="USSR",O‘zbekiston(Uzbekistan)
+https://s1.idata.uz/stch_temp2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="Middle East",MBC 1(Saudi Arabia)
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
