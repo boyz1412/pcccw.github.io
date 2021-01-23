@@ -879,6 +879,8 @@ http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-id="RT1.PT" tvg-logo="https://static.epg.best/pt/Rtp1.pt.png" group-title="Europe",RTP 1 (Portugal)
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 8_0_2 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Version/8.0 Mobile/12A366 Safari/600.1.4"
 
+#EXTINF:-1 tvg-id="SIC.PT" tvg-logo="https://static.epg.best/pt/Sic.pt.png" group-title="Europe",SIC (Portugal)
+http://live.impresa.pt/live/sic/sic.m3u|X-Forwarded-For=94.46.163.111
 
 #EXTINF:-1 tvg-id="RT1.AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RTSH_1_HD_%282020_Logo%29.svg/1920px-RTSH_1_HD_%282020_Logo%29.svg.png" group-title="Europe",RTSH 1 (Albania)
 http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
