@@ -692,17 +692,17 @@ rtmp://212.2.228.202:1935/live/htv.stream
 #EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Кыргызстан",Kazakh TV(Кыргызстан)
 http://kazakhtvkg.ultraiptv.com/live_kg/playlist3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/ee/ETV.ee.png" group-title="Baltic States",ETV (Eesti)
+#EXTINF:-1 tvg-logo="https://static.epg.best/ee/ETV.ee.png" group-title="Baltic States",ETV(Eesti)
 https://sb.err.ee/live/etv.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ee/ETV2.ee.png" group-title="Baltic States",ETV 2(Eesti)
 https://sb.err.ee/live/etv2.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/ee/ETVPlus.ee.png" group-title="Baltic States",ETV+ (Eesti)
+#EXTINF:-1 tvg-logo="https://static.epg.best/ee/ETVPlus.ee.png" group-title="Baltic States",ETV+(Eesti)
 https://sb.err.ee/live/etvpluss.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LRT_Lituanica.png" group-title="Baltic States",LRT Lituanica(Lietuva)
 https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1e/LRT_radijas.jpg" group-title="Baltic States",LRT Radijas(Lietuva)
 https://lituanica-dvr.lrt.lt/lrt_radijas/hls/lrt_radijas_cam2_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://chaula.tv/static/chaulatv/css/images/big_logo.png" group-title="Baltic States",Chau (Latvija)
+#EXTINF:-1 tvg-logo="https://chaula.tv/static/chaulatv/css/images/big_logo.png" group-title="Baltic States",Chau(Latvija)
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
 
 
@@ -848,7 +848,7 @@ http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
 http://212.3.106.230/hls-live/live/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-Eg8TKegACwo/UWCjHNpuGLI/AAAAAAAABW4/AiRO9on7MS0/s200/logo_100_news.jpg" group-title="Україна",100% News UA
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 tvg-logo="https://sun9-18.userapi.com/c639227/v639227583/45ae7/tw3dA0ptuXI.jpg" group-title="Україна",Первый Городской (Одесса)
+#EXTINF:-1 tvg-logo="https://sun9-18.userapi.com/c639227/v639227583/45ae7/tw3dA0ptuXI.jpg" group-title="Україна",Первый Городской(Одесса)
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 http://uaan.tv/wp-content/uploads/uaan.jpg
 #EXTINF:-1 tvg-logo="http://uaan.tv/wp-content/uploads/uaan.jpg" group-title="Україна",Uaan TV
@@ -941,7 +941,7 @@ https://str.kanalsirius.tv/live/livestream/playlist.m3u8
 http://178.124.183.5/hls/Y9GP8UFTZO/variant.m3u8
 #EXTINF:-1 tvg-logo="https://tva.ua/wp-content/uploads/2018/07/Logo_TVAN21.png" group-title="Україна",ТВА Чернівці
 http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.tvdom.ua/media/img/bg/logo.png" group-title="Україна",ТВ-Дом (Одесса)
+#EXTINF:-1 tvg-logo="http://www.tvdom.ua/media/img/bg/logo.png" group-title="Україна",ТВ-Дом(Одесса)
 http://46.149.48.21:1234
 #EXTINF:-1 tvg-logo="http://tviyplus.com.ua/images/stories/Diz/Main/Logo/6.png" group-title="Україна",Твой Плюс
 http://62.64.92.118:8080/Apple/1/index.m3u8
@@ -993,12 +993,10 @@ https://s3.idata.uz/dars4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.mtrk.uz/modules/state/client/assets/image/cb880bb0-05f5-4fd1-8a89-9a58047549e5_thumb.png" group-title="Ўзбекистон",Dunyo Bo'ylab
 https://s3.idata.uz/dars12/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Ўзбекистон",Kazakh TV (Ўзбекистон)
+#EXTINF:-1 tvg-logo="https://kazakh-tv.kz/img/logo_default.png" group-title="Ўзбекистон",Kazakh TV(Ўзбекистон)
 https://kazakhtvuz.ultraiptv.com/live_uz/playlist3/index.m3u8
 #EXTINF:-1 tvg-logo="https://azon.uz/assets/main/img/azon-tv.png" group-title="Ўзбекистон",Azon TV
 http://tv2.azon.uz/high/stream.m3u8
-#EXTINF:-1 tvg-logo="https://azon.uz/assets/main/img/azon-tv.png" group-title="Ўзбекистон",Azon TV
-https://stream8.itv.uz/1080/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.beelinetv.uz/buz-production/23abb65221e8d100c472.png" group-title="Ўзбекистон",КЛУБ ПУТЕШЕСТВИЙ
 https://s1.idata.uz/stch_temp19/tracks-v1a1/mono.m3u8
@@ -1016,8 +1014,6 @@ https://s3.idata.uz/dars11/tracks-v1a1/mono.m3u8
 https://s1.idata.uz/stch_temp24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://uydaqoling.uz/wp-content/uploads/2020/04/logo12-768x395.png" group-title="Ўзбекистон",Online Maktab 1-4 Sinf
 https://s3.idata.uz/dars14/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="http://uydaqoling.uz/wp-content/uploads/2020/04/logo12-768x395.png" group-title="Ўзбекистон",Online Maktab 1-4 Sinf
-https://stream8.itv.uz/1087/index.m3u8
 #EXTINF:-1 tvg-logo="http://uydaqoling.uz/wp-content/uploads/2020/04/logo12-768x395.png" group-title="Ўзбекистон",Online Maktab 5-8 Sinf
 https://s3.idata.uz/dars15/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://uydaqoling.uz/wp-content/uploads/2020/04/logo12-768x395.png" group-title="Ўзбекистон",Online Maktab 9-11 Sinf
@@ -1025,8 +1021,6 @@ https://s3.idata.uz/dars13/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://biztv.uz/static/media/biz-tv.774e87b5.png" group-title="Ўзбекистон",Biz TV
 https://st.biztv.uz/hls/stream_mid/index.m3u8
-#EXTINF:-1 tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" group-title="Ўзбекистон",Biz Cinema
-https://stream8.itv.uz/1085/index.m3u8
 #EXTINF:-1 tvg-logo="https://biztv.uz/static/media/biz-cinema.286b83dc.png" group-title="Ўзбекистон",Biz Cinema
 https://st.biztv.uz/hls/c_mid/index.m3u8
 #EXTINF:-1 tvg-logo="https://biztv.uz/static/media/biz-music.0b7f3d40.png" group-title="Ўзбекистон",Biz Music
