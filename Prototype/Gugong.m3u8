@@ -885,6 +885,8 @@ https://dr01-lh.akamaihd.net/i/live/dr01_0@147054/index_3000_av-p.m3u8|X-Forward
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_1500_av-p.m3u8
 #EXTINF:-1 tvg-id="RTL.HU" tvg-logo="https://static.epg.best/hu/RTLKlub.hu.png" group-title="Europe",RTL Klub(Hungary)
 https://stream.y5.hu/stream/stream_rtlklub/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Logo_RTL_Luxembourg.png/375px-Logo_RTL_Luxembourg.png" group-title="Europe",RTL Télé Lëtzebuerg(Luxembourg)
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://4.bp.blogspot.com/-QalAi7rgRSI/UAL1BhjOxaI/AAAAAAAAImY/F9JyYVDVirE/s1600/RTCG+Sat+logo+2012.png" group-title="Europe",TVCG SAT(Montenegro)
 http://rtcg3.videostreaming.rs:1935/rtcg/smil:rtcg.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BVN.NL" tvg-logo="https://ccm.npo.nl/sites/BVN/bvn.tv/logo.png" group-title="Europe",BVN(Netherlands)
