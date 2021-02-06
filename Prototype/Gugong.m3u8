@@ -5,8 +5,6 @@
 http://ott-cdn.ucom.am/s65/index.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvpertiwi.com.my/wp-content/uploads/2019/08/logo-1.png" tvg-country="MY" tvg-url="" group-title="Mala",Pertiwi TV
-https://mn-nl.mncdn.com/pertiwitv/pertiwitv/playlist.m3u8|X-Forwarded-For=42.0.30.165
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
