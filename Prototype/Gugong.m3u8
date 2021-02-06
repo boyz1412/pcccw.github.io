@@ -4,9 +4,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s65/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="Business",CNBC
-http://106.53.212.251/daili/gztv.php?id=zjpd
-
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
@@ -75,10 +72,14 @@ http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
 #EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="Malaysia",Astro Supersport 3
 http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ATV.HK" tvg-logo="https://www.hkatv.com/images/logo.png" group-title="香港",亞洲電視
-https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
 #EXTINF:-1 tvg-id="FHX.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png" group-title="香港",鳳凰衛視香港台
 http://live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c.m3u8
+#EXTINF:-1 tvg-id="NFW.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/GRT_Southern_STV.png" group-title="香港",南方衛視
+http://106.53.212.251/daili/gztv.php?id=tvs2
+#EXTINF:-1 tvg-id="ZJP.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/GRT_Southern_STV.png" group-title="香港",珠江頻道
+http://106.53.212.251/daili/gztv.php?id=zjpd
+#EXTINF:-1 tvg-id="ATV.HK" tvg-logo="https://www.hkatv.com/images/logo.png" group-title="香港",亞洲電視
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
 #EXTINF:-1 tvg-id="31.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="香港",港台電視31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1 tvg-id="32.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1024px-RTHK_TV_32.svg.png" group-title="香港",港台電視32
@@ -89,12 +90,12 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="香港",J2台                  
 https://cdn.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="香港",明珠台(TVB Pearl)
-https://cdn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="香港",無綫新聞
 http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 tvg-id="WXC.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png" group-title="香港",無綫財經資訊
 http://livetv.dnsfor.me/channel.11.m3u8
+#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="香港",TVB Pearl
+https://cdn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="香港",ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-ID="YYL.HK" tvg-logo="http://utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" group-title="香港",有線綜合娱乐
