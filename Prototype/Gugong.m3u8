@@ -365,7 +365,7 @@ http://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8
 #EXTINF:-1 tvg-id="AMA.TH" tvg-logo="https://www.amarintv.com/assets/images/logo.png" group-title="Thai",Amarin TV
 http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
 #EXTINF:-1 tvg-id="T4U.TH" tvg-logo="https://static.epg.best/th/true4U.th.png" group-title="Thai",True4U
-http://183.182.100.184/live/true4u/chunklist.m3u8
+https://cdn6.goprimetime.info/feed/chtrue4u//index.m3u8
 
 #EXTINF:-1 tvg-id="COL.IN" tvg-logo="https://static.epg.best/in/Colors.in.png" group-title="India",Colors
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
