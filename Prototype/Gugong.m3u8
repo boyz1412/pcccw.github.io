@@ -281,7 +281,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-ID="Ari.KR" logo="http://static.epg.best/kr/ArirangTV.kr.png" group-title="新闻",Arirang(日韩)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-ID="AFR.News" tvg-logo="https://www.ladn.eu/wp-content/uploads/2017/07/africa-news-app.png" group-title="新闻",Africa News
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/AfricaNews.m3u8
+https://pcccw.github.io/pcccw.github.io/M3U8/Token/Int/AfricaNews.m3u8
 
 #EXTINF:-1 tvg-ID="Bbw.News" tvg-logo="http://static.epg.best/gb/BBCWorldNews.uk.png" group-title="新闻",BBC World News
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
