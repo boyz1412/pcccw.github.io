@@ -1005,8 +1005,8 @@ http://51.210.199.29/hls/stream.m3u8
 http://51.210.199.30/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/afyonturktv-hdtvler-pseb.png" group-title="Türkiye",Afyon Turk TV
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-bloomberg-4532.jpg" group-title="Türkiye",BloomberghT
-http://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-bloomberg-4532.jpg" group-title="Türkiye",Bloomberg HT
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/480x480/5df3cd52866ac30eac569581" group-title="Türkiye",BLUTV Aksiyon
 https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/480x480/5df3cdaf866ac30eac56958e" group-title="Türkiye",BLUTV Komedi
