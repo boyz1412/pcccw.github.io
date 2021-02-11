@@ -34,64 +34,6 @@ https://tglmp04.akamaized.net/out/v1/31fe9e6473ce4c03aa79f83fcb53b2ff/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfdmFzYW50aGFtX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDEwNyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=kW0wEsrEe7pTVkx1lThO0W7iINQ%3D&
 https://tglmp03.akamaized.net/out/v1/ff7074666bce40c9887ba518d3fc7a85/manifest.mpd
 
-#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",TV1
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia",TV2
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
-#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/MY/TV3.m3u8|Referer=https://www.dailymotion.com
-#EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV 7
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/MY/NTV7.m3u8
-#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",八度空间
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/MY/8TV.m3u8
-#EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/MY/TV9.m3u8
-#EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia",Berita RTM 
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
-#EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia",OKEY
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WLT.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/333_300.png" group-title="Malaysia",Astro 华丽台
-http://50.7.222.130:8278/streams/d/Wlt/playlist.m3u8
-#EXTINF:-1 tvg-id="XHT.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/373_300.png" group-title="Malaysia",Astro 欢喜台
-http://50.7.222.130:8278/streams/d/Huahee/playlist.m3u8
-#EXTINF:-1 tvg-id="QIY.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/300_300.png" group-title="Malaysia",Astro 爱奇艺
-http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
-#EXTINF:-1 tvg-id="QUJ.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/308_300.png" group-title="Malaysia",Astro 全佳
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF:-1 tvg-id="XXT.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/307_300.png" group-title="Malaysia",Astro 双星
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 tvg-id="XTY.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/344_300.png" group-title="Malaysia",Astro 小太阳
-http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-#EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="Malaysia",Astro AEC
-http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
-#EXTINF:-1 tvg-id="Cer.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-#EXTINF:-1 tvg-id="AOD.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/351_300.png" group-title="Malaysia",Astro AOD
-http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
-#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malaysia",Astro Hello
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
-#EXTINF:-1 tvg-ID="Nau.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="Malaysia",Astro Naura
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-#EXTINF:-1 tvg-id="Pri.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Malaysia",Astro Prima
-http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
-#EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="Malaysia",Astro Ria
-http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8
-#EXTINF:-1 tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Malaysia",Astro Warna
-http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
-#EXTINF:-1 tvg-id="Vaa.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Malaysia",Astro Vaanavil
-https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
-#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="Malaysia",Astro Supersport
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1 tvg-id="AS2.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="Malaysia",Astro SuperSport 2
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="Malaysia",Astro Supersport 3
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1 tvg-id="AS4.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="Malaysia",Astro SuperSport 4
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
-
 #EXTINF:-1 tvg-id="FHX.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png" group-title="香港",鳳凰衛視香港台
 http://live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c.m3u8
 #EXTINF:-1 tvg-id="NFW.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/GRT_Southern_STV.png" group-title="香港",南方衛視
@@ -185,6 +127,57 @@ http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-id="YXW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台湾",臺新聞
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
+
+#EXTINF:-1 tvg-ID="MBC.KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="日韩",MBC
+https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-ID="SBS.KR" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="日韩",SBS
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+
+#EXTINF:-1 tvg-ID="KSW.KR" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="日韩",KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="tvN.KR" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="日韩",tVN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+#EXTINF:-1 tvg-ID="ONE.KR" tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" group-title="日韩",One TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#EXTINF:-1 tvg-id="YTN.KR" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="日韩",YTN
+http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
+#EXTINF:-1 tvg-id="YTS.KR" tvg-logo="https://static.epg.best/kr/YTNScience.kr.png" group-title="日韩",YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NHG.JP" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" group-title="日韩",NHK総合
+http://203.162.235.41:16903
+#EXTINF:-1 tvg-id="NHE.JP" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png" group-title="日韩",NHK教育
+http://203.162.235.41:16901
+#EXTINF:-1 tvg-ID="NWP.JP" tvg-logo="http://nhkworldpremium.com/img/common/logo.png" group-title="日韩",NHK World Premium 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+
+#EXTINF:-1 tvg-id="ASH.JP" tvg-logo="https://static.epg.best/jp/Asahi1.jp.png" group-title="日韩",テレビ朝日
+http://203.162.235.41:16906
+#EXTINF:-1 tvg-id="TOK.JP" tvg-logo="https://static.epg.best/jp/TVTokyo.jp.png" group-title="日韩",テレビ東京
+http://203.162.235.41:16908
+#EXTINF:-1 tvg-id="TBS.JP" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg" group-title="日韩",TBSテレビ
+http://203.162.235.41:16907
+#EXTINF:-1 tvg-id="FUJ.JP" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png" group-title="日韩",フジテレビ
+http://203.162.235.41:16904
+#EXTINF:-1 tvg-id="NIP.JP" tvg-logo="https://static.epg.best/jp/NipponTV.jp.png" group-title="日韩",日テレ
+http://203.162.235.41:16905
+#EXTINF:-1 tvg-id="N24.JP" tvg-logo="https://startpoint.jp/wp-content/uploads/fb.jpg" group-title="日韩",日テレNEWS24
+https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+
+#EXTINF:-1 tvg-ID="WKW.JP" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/waku-waku-large.png" group-title="日韩",WakuWaku Japan
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
+
 
 #EXTINF:-1 tvg-id="CT1.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8
@@ -296,55 +289,64 @@ https://live1.kxm.xmtv.cn/xmtxmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="YBW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="中国",延边卫视
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 
-#EXTINF:-1 tvg-ID="MBC.KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="日韩",MBC
-https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-ID="SBS.KR" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="日韩",SBS
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
+#EXTINF:-1 tvg-ID="TV1.MY" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",TV1
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1 tvg-ID="TV2.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_300.png" group-title="Malaysia",TV2
+https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
+#EXTINF:-1 tvg-ID="TV3.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="Malaysia",TV3
+https://pcccw.github.io/pcccw.github.io/M3U8/Token/MY/TV3.m3u8|Referer=https://www.dailymotion.com
+#EXTINF:-1 tvg-ID="TV7.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png" group-title="Malaysia",NTV 7
+https://pcccw.github.io/pcccw.github.io/M3U8/Token/MY/NTV7.m3u8
+#EXTINF:-1 tvg-ID="8TV.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" group-title="Malaysia",八度空间
+https://pcccw.github.io/pcccw.github.io/M3U8/Token/MY/8TV.m3u8
+#EXTINF:-1 tvg-ID="TV9.MY" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png" group-title="Malaysia",TV9
+https://pcccw.github.io/pcccw.github.io/M3U8/Token/MY/TV9.m3u8
+#EXTINF:-1 tvg-ID="BRE.MY" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="Malaysia",Berita RTM 
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
+#EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia",OKEY
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="KSW.KR" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="日韩",KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="WLT.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/333_300.png" group-title="Malaysia",Astro 华丽台
+http://50.7.222.130:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 tvg-id="XHT.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/373_300.png" group-title="Malaysia",Astro 欢喜台
+http://50.7.222.130:8278/streams/d/Huahee/playlist.m3u8
+#EXTINF:-1 tvg-id="QIY.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/300_300.png" group-title="Malaysia",Astro 爱奇艺
+http://50.7.222.130:8278/streams/d/Qiyi1511/playlist.m3u8
+#EXTINF:-1 tvg-id="QUJ.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/308_300.png" group-title="Malaysia",Astro 全佳
+http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+#EXTINF:-1 tvg-id="XXT.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/307_300.png" group-title="Malaysia",Astro 双星
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 tvg-id="XTY.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/344_300.png" group-title="Malaysia",Astro 小太阳
+http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
+#EXTINF:-1 tvg-ID="Awa.MY" tvg-logo="https://img.astroawani.com/template/awani.jpg" group-title="Malaysia",Astro Awani
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1 tvg-id="AEC.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/306_300.png" group-title="Malaysia",Astro AEC
+http://50.7.222.130:8278/streams/d/Aec1511/playlist.m3u8
+#EXTINF:-1 tvg-id="Cer.MY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/55_144.png" group-title="Malaysia",Astro Ceria
+http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
+#EXTINF:-1 tvg-id="AOD.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/351_300.png" group-title="Malaysia",Astro AOD
+http://50.7.161.82:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1 tvg-ID="Hel.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="Malaysia",Astro Hello
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+#EXTINF:-1 tvg-ID="Nau.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="Malaysia",Astro Naura
+http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
+#EXTINF:-1 tvg-id="Pri.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="Malaysia",Astro Prima
+http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8
+#EXTINF:-1 tvg-id="Ria.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_300.png" group-title="Malaysia",Astro Ria
+http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8
+#EXTINF:-1 tvg-id="War.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_300.png" group-title="Malaysia",Astro Warna
+http://ts.lemmovie.com/3c9b182b-5d7d-4ecd-8245-61307642f861.m3u8
+#EXTINF:-1 tvg-id="Vaa.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="Malaysia",Astro Vaanavil
+https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+#EXTINF:-1 tvg-id="AS1.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport.my.png" group-title="Malaysia",Astro Supersport
+http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1 tvg-id="AS2.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport2.my.png" group-title="Malaysia",Astro SuperSport 2
+http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1 tvg-id="AS3.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport3.my.png" group-title="Malaysia",Astro Supersport 3
+http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1 tvg-id="AS4.MY" tvg-logo="https://static.epg.best/my/AstroSuperSport4.my.png" group-title="Malaysia",Astro SuperSport 4
+http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tvN.KR" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="日韩",tVN
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
-
-#EXTINF:-1 tvg-ID="ONE.KR" tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" group-title="日韩",One TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-
-#EXTINF:-1 tvg-id="YTN.KR" tvg-logo="https://static.epg.best/kr/YTN.kr.png" group-title="日韩",YTN
-http://slive.ytn.co.kr/ytn/_definst_/ytn_stream_20190306/playlist.m3u8
-#EXTINF:-1 tvg-id="YTS.KR" tvg-logo="https://static.epg.best/kr/YTNScience.kr.png" group-title="日韩",YTN Science
-http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="NHG.JP" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" group-title="日韩",NHK総合
-http://203.162.235.41:16903
-#EXTINF:-1 tvg-id="NHE.JP" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png" group-title="日韩",NHK教育
-http://203.162.235.41:16901
-#EXTINF:-1 tvg-ID="NWP.JP" tvg-logo="http://nhkworldpremium.com/img/common/logo.png" group-title="日韩",NHK World Premium 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
-
-#EXTINF:-1 tvg-id="ASH.JP" tvg-logo="https://static.epg.best/jp/Asahi1.jp.png" group-title="日韩",テレビ朝日
-http://203.162.235.41:16906
-#EXTINF:-1 tvg-id="TOK.JP" tvg-logo="https://static.epg.best/jp/TVTokyo.jp.png" group-title="日韩",テレビ東京
-http://203.162.235.41:16908
-#EXTINF:-1 tvg-id="TBS.JP" tvg-logo="https://www.abu.org.my/images/articles/news/tbs_logo.jpg" group-title="日韩",TBSテレビ
-http://203.162.235.41:16907
-#EXTINF:-1 tvg-id="FUJ.JP" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-181-400x400.png" group-title="日韩",フジテレビ
-http://203.162.235.41:16904
-#EXTINF:-1 tvg-id="NIP.JP" tvg-logo="https://static.epg.best/jp/NipponTV.jp.png" group-title="日韩",日テレ
-http://203.162.235.41:16905
-#EXTINF:-1 tvg-id="N24.JP" tvg-logo="https://startpoint.jp/wp-content/uploads/fb.jpg" group-title="日韩",日テレNEWS24
-https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
-
-#EXTINF:-1 tvg-ID="WKW.JP" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/waku-waku-large.png" group-title="日韩",WakuWaku Japan
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
 
 #EXTINF:-1 tvg-id="TV5.TH" tvg-logo="https://www.tv5.co.th/tv5hd1-web/img/tv5hd1_logo_light.png" group-title="Thai",ททบ 5
 https://tc-live1.sanook.com/live/22302_ch5.m3u8
