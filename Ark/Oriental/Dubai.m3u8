@@ -332,9 +332,9 @@ http://82.137.248.16:1935/Drama/stream10112020/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/10/logo1.png" group-title="سوريا",Lana TV
-https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8
+https://stream.lanacanal.tv:5443/LiveApp/streams/725036471648486808631404.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://lanacanal.tv/LanaTVPlus/wp-content/uploads/2019/09/Untitled-1.png" group-title="سوريا",Lana Plus TV
-https://stream.lanacanal.tv:5443/LiveApp/streams/201553893335555441819965.m3u8
+https://stream.lanacanal.tv:5443/LiveApp/streams/661600756283263429588675.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2018/08/%D9%84%D9%88%D8%BA%D9%88-%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9-3.png" group-title="سوريا",Halab Today TV
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
