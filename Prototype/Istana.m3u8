@@ -390,8 +390,6 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
-#EXTINF:-1 tvg-ID="FON.UK" tvg-logo="http://static.epg.best/bg/FoodNetwork.bg.png" group-title="Family",Food Network
-http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF:-1 tvg-ID="OUT.US" tvg-logo="https://static.epg.best/gb/OutdoorChannel.uk.png" group-title="Family",Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-ID="NGO.US" tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="Family",National Geographic
