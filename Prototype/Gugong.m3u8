@@ -300,8 +300,6 @@ https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8
 #EXTINF:-1 tvg-ID="Oky.MY" tvg-logo="https://okey.rtm.gov.my/img/logo/okey.png" group-title="Malaysia",OKEY
 https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WLT.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/333_300.png" group-title="Malaysia",Astro 华丽台
-http://50.7.222.130:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF:-1 tvg-id="XHT.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/373_300.png" group-title="Malaysia",Astro 欢喜台
 http://50.7.222.130:8278/streams/d/Huahee/playlist.m3u8
 #EXTINF:-1 tvg-id="QIY.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/300_300.png" group-title="Malaysia",Astro 爱奇艺
