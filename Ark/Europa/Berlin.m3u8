@@ -339,21 +339,19 @@ https://cdn-lt-live.tv2oj.dk/dc-1/live/hls/p/2102081/e/0_x4p3licd/sd/6000/t/5aoq
 https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/FranceO.fr.png" group-title="Français",France Ô
-https://edge-1192-ch-gv.filmon.com/live/3884.high.stream/playlist.m3u8
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6151/index.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="Français",France 2
-http://178.132.3.162:88/france2/index.m3u8?token=test
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6147/index.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France2.fr.png" group-title="Français",France 2
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="Français",France 3
-http://178.132.3.162:88/france3/index.m3u8?token=test
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="Français",France 3 Rhône-Alpes
-https://edge-1192-ch-gv.filmon.com/live/3890.high.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France3.fr.png" group-title="Français",France 3 Alpes
-https://edge-1192-ch-gv.filmon.com/live/3893.high.stream/playlist.m3u8
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6148/index.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France4.fr.png" group-title="Français",France 4
-http://178.132.3.162:88/france4/index.m3u8?token=test
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6149/index.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France5.fr.png" group-title="Français",France 5
-http://178.132.3.162:88/france5/index.m3u8?token=test
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6150/index.m3u
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/fr/FranceInfo.fr.png" group-title="Français",France Info
 https://edge-1192-ch-gv.filmon.com/live/3887.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/fr/France24English.fr.png" group-title="Français",France 24
@@ -813,6 +811,10 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6058/index.m3u
 #EXTINF:-1 tvg-id="ST1.DE" tvg-logo="https://static.epg.best/de/Sat1.de.png" group-title="Deutschland",Sat.1
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6060/index.m3u
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/Kabel1.de.png" group-title="Deutschland",Kabel Eins
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6067/index.m3u
+
+
 #EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="Deutschland",ZDF Info
 http://51.52.156.23:8888/http/010
 
@@ -829,8 +831,6 @@ http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/DeutscheWelle.de.png" group-title="Deutschland",Deutsche Welle +
 https://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_3_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/Kabel1.de.png" group-title="Deutschland",Kabel Eins
-http://178.132.3.162:88/Kabel_1/video.m3u8?token=test
 #EXTINF:-1 tvg-id="KIK.DE" tvg-logo="http://static.epg.best/de/Kika.de.png" group-title="Deutschland",Kika
 https://kikageohls-i.akamaihd.net/hls/live/1006268/livetvkika_de/master.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-id="MTV.DE" tvg-logo="https://static.epg.best/de/MTVGermany.de.png" group-title="Deutschland",MTV Germany
@@ -841,8 +841,6 @@ https://tv-livestream.online/sender/ntv.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/Tagesschau24.de.png" group-title="Deutschland",tagesschau24
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/de/Sat1.de.png" group-title="Deutschland",Sat 1
-http://178.132.3.162:88/SAT_1/video.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/TVRus.png" group-title="Deutschland",TV Rus
 https://bemtv.parom.tv/hls/stream274/stream0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://n-w.tv/wp-content/themes/nmtv_new/img/logo_28-10-2019.png" group-title="Deutschland",KНовый мир
