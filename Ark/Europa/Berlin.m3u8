@@ -796,10 +796,26 @@ https://derste247livede.akamaized.net/hls/live/658317/daserste_de/profile1/1.m3u
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8|X-Forwarded-For=91.197.29.78
 
 #EXTINF:-1 tvg-id="RTL.DE" tvg-logo="https://static.epg.best/de/RTL.de.png" group-title="Deutschland",RTL
-http://84.112.18.204:8001/1:0:1:EF10:421:1:C00000:0:0:0:
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6062/index.m3u
+
+#EXTINF:-1 tvg-id="RT2.DE" tvg-logo="https://static.epg.best/de/RTL2.de.png" group-title="Deutschland",RTL 2
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6065/index.m3u
+
+#EXTINF:-1 tvg-id="RTN.DE" tvg-logo="https://static.epg.best/de/RTLNitro.de.png" group-title="Deutschland",RTL Nitro
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6064/index.m3u
+
+#EXTINF:-1 tvg-id="PRS.DE" tvg-logo="https://static.epg.best/de/Pro7.de.pnghttps://static.epg.best/de/RTL.de.png" group-title="Deutschland",ProSieben
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6057/index.m3u
+
+#EXTINF:-1 tvg-id="PRM.DE" tvg-logo="https://static.epg.best/de/ProSiebenMaxx.de.png" group-title="Deutschland",ProSieben Maxx
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6058/index.m3u
+
+#EXTINF:-1 tvg-id="ST1.DE" tvg-logo="https://static.epg.best/de/Sat1.de.png" group-title="Deutschland",Sat.1
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6060/index.m3u
 
 #EXTINF:-1 tvg-id="ONE.DE" tvg-logo="https://static.epg.best/de/One.de.png" group-title="Deutschland",ZDF Info
 http://51.52.156.23:8888/http/010
+
 #EXTINF:-1 tvg-id="ADR.DE" tvg-logo="https://static.epg.best/de/ARDalpha.de.png" group-title="Deutschland",ADR Alpha
 http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8|X-Forwarded-For=91.197.29.78
 #EXTINF:-1 tvg-id="ART.DE" tvg-logo="https://i.imgur.com/xXRYZd6.png"  group-title="Deutschland",Arte Deutsch
