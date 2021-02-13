@@ -769,8 +769,6 @@ http://51.210.199.55/hls/stream.m3u8
 http://iptv.rangarang.us/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.parsatv.com/index_files/channels/simayeazadi.jpg" group-title="ایران",Simaye Azadi
 https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eNIZq3q.png" group-title="ایران",Sahar Urdu
-https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://nejattv.org/assets/img/tbn-nejat-logo.png" group-title="ایران",TBN Nejat TV
 https://api.new.livestream.com/accounts/27460990/events/8266913/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://yourtime.tv/img/utv-logo.png" group-title="ایران",YourTime TV
