@@ -56,19 +56,11 @@ https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd
 #EXTINF:-1 tvg-logo="https://cdn.sonicgang.com/wp-content/uploads/2019/03/logo.png" group-title="मनोरंजन",Nickelodeon Sonic
 https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
 
-#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarPlus.in.png" group-title="मनोरंजन",Star Plus
-http://khulnalive.anytv.live:8080/starplus/index.m3u8
+#EXTINF:-1 tvg-logo="http://dangaltv.enterr10tv.com/images/dangaltv_logo.png" group-title="मनोरंजन",Dangal TV
+https://itvorigin.multitvsolution.com/idvo/dangal_540p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-181/list/170x120/qindia_1170x658.png" group-title="मनोरंजन",The Q
-https://load.airtelxstream.in/theqyou/smil:common.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/zeetv.png" group-title="मनोरंजन",Zee TV (USA)
-http://z5amshls.akamaized.net/ztvhdusa/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/zeetv.png" group-title="मनोरंजन",Zee TV (Middle East)
-http://z5amshls.akamaized.net/ztvme/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/canada.png" group-title="मनोरंजन",Zee TV (Canada)
-http://z5amshls.akamaized.net/canadahd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/zeeworld.png" group-title="मनोरंजन",Zee World
-http://z5amshls.akamaized.net/world/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/ManoranjanTVLogo.jpg" group-title="मनोरंजन",Manoranjan Tv
+https://itvorigin.multitvsolution.com/idvo/manoranjantv_540p/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://doordarshan.gov.in/sites/default/files/DD-India-logo.png" group-title="International (India)",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
