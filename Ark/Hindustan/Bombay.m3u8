@@ -170,6 +170,8 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6723/index.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://kay2.tv/wp-content/uploads/2017/01/logo.png" group-title="تفریح",Kay2
 https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/index_150_av-p.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://apna.tv/wp-content/uploads/2019/07/APNA-LOGO-NEW.png" group-title="تفریح",Apna TV
+http://cdn2.jazztv.pk:8085/jazzauth/ApnaChannel-134/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.a1uk.tv/images/icms_logo.png" group-title="تفریح",A1 TV 
 http://162.250.201.58:6211/uk/A1TV/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-id="APP.PK" tvg-logo="http://a-plus.tv/wp-content/uploads/2019/02/logo_aplus.png" group-title="تفریح",A-Plus
@@ -177,7 +179,7 @@ http://niazitv.tk:8080/A-Plus-27/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnifcFyc-pBK4sua6Ler_A0NgqLObQSSCf_z8jTQ=s900-c-k-c0x00ffffff-no-rj" group-title="پاکستان",ATV
 https://streams.simpaisa.com:8443/pitvlive3/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.aaj.tv/medium/2020/10/5f914a766baaf.png" group-title="پاکستان",Aaj Entertainment
-https://streams.simpaisa.com:8443/pitvlive3/aajent.smil/playlist.m3u8
+http://cdn2.jazztv.pk:8085/jazzauth/AAJENT-125/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://karytv.com/wp-content/uploads/2018/04/canada-one-channel-logo.jpg" group-title="تفریح",Canada One
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.channelwin.tv/wp-content/uploads/2018/10/CW-logo-01-1.png" group-title="پاکستان",Channel Win
@@ -201,7 +203,8 @@ https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="https://tagtv.today/wp-content/uploads/2018/11/top-banner-3.jpg" group-title="تفریح",Tag TV 
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.tvonepk.tv/wp-content/uploads/2019/04/tvone-logo.png" group-title="تفریح",TV One
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6729/index.m3u8
+http://cdn2.jazztv.pk:8085/jazzauth/TV1-129/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://cdn61.liveonlineservices.com/upload/images/TGl2ZSBUViAtIERhbm5rYSAjMjM5MjA=/1496175.png" group-title="تفریح",Urdu TV Toronto
 http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://indeltv.in/wp-content/uploads/2019/01/zee-salaam.png" group-title="تفریح",Zee Salaam
@@ -213,6 +216,10 @@ http://edge-ind.inapcdn.in:1935/device2/camera2.stream/chunklist.m3u8
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://arynews.tv/wp-content/uploads/2018/03/news-logo-2-1.jpgg" group-title="تفریح",Ary News
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6720/index.m3u
+#EXTINF:-1 tvg-id="" tvg-logo="https://abbtakk.s3.ap-southeast-1.amazonaws.com/en/wp-content/uploads/2019/01/27194509/abbtakknew1.png group-title="خبریں",Abb Tak
+http://cdn2.jazztv.pk:8085/jazzauth/AbbTakNews-133/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.aaj.tv/_img/logo-title.png" group-title="خبریں",AJJ News
+http://cdn2.jazztv.pk:8085/jazzauth/AAJNews-124/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://southasiandaily.com/wp-content/uploads/2015/10/channely31-685x3201.jpg" group-title="تفریح",Channel Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pk/DunyaNews.pk.png" group-title="خبریں",Dunya
@@ -229,8 +236,14 @@ https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8
 http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://rozetv.com/wp-content/uploads/2019/03/logo-animation-1.gif" group-title="خبریں",Roze News
 http://streamer64.ebound.tv/tv/roze/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pk/SamaaTV.pk.png" group-title="خبریں",Sama Tv
+http://cdn2.jazztv.pk:8085/jazzauth/Samaa-157-3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.urdu.news18.com/static-urdu/2020/03/Urdu1-1.png" group-title="خبریں",News18 Urdu
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6734/index.m3u
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.24newshd.tv/uploads/theme/logo-1580807238.png" group-title="خبریں",24News
+http://cdn2.jazztv.pk:8085/jazzauth/24HD-146/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.dawnnews.tv/_img/logo.png" group-title="خبریں",Dawn News
+http://cdn2.jazztv.pk:8085/jazzauth/DawnNews-152/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SBUPUNm.png" group-title="موسیقی",Nazrana
 http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/index_2128_av-p.m3u8
