@@ -177,6 +177,8 @@ http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XO/9XO.isml/9XO-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/in/9XM.in.png" group-title="संगीत",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="संगीत",9X Jalwa
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.zee.com/wp-content/themes/zeetelevision/imagesnew/bigganga.png" group-title="संगीत",Big Ganga
 http://z5amshls.akamaized.net/bigganga/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://b4umusic.in/images/logo.png" group-title="संगीत",B4U Music
@@ -247,10 +249,14 @@ https://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/DDPunjabi.in.png" group-title="मनोरंजन",DD Punjabi
 https://hls.media.nic.in/hls/live/ddpunjabi/ddpunjabi.m3u8
+#EXTINF:-1 tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-Punjabi-1.png" group-title="मनोरंजन",PTC Punjabi
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6670/index.m3u
 #EXTINF:-1 tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/newlogo.png" group-title="मनोरंजन",5aab TV
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/logo%205aab%20tv%20-%20australia.PNG" group-title="मनोरंजन",5aab ऑस्ट्रेलिया
 http://158.69.124.9:1935/5aabtv/5aabtvaus/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Alpha_ETC_Punjabi.PNG/90px-Alpha_ETC_Punjabi.PNG" group-title="मनोरंजन",Alpha ETC Punjabi IN
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6671/index.m3u
 #EXTINF:-1 tvg-logo="http://apnapunjab.tv/images/logo.png" group-title="मनोरंजन",Apna Punjab
 https://apna.r.worldssl.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ankhilapunjabtv.com/wp-content/uploads/2015/08/logo.png" group-title="मनोरंजन",Ankhila Punjab
@@ -277,6 +283,12 @@ http://cdn12.henico.net:8080/live/jbani/index.m3u8
 https://cdn.live247stream.com/punjabitvcanada/tv/punjabitvcanada/livestream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.punjabizindabad.com/images/logo.png" group-title="मनोरंजन".Punjabi Zindabad
 http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://barusahib.org/wp-content/uploads/2018/07/Garv-Punjab.jpg" group-title="मनोरंजन",Garv Punjab
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6678/index.m3u
+#EXTINF:-1 tvg-logo="http://sanjhatv.ca/wp-content/uploads/2020/05/logo-sanjha-1536x1414.png group-title="मनोरंजन",Sanjha TV
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6682/index.m3u
+#EXTINF:-1 tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-GOLD-1.png" group-title="मनोरंजन",PTC Punjabi Gold
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6686/index.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Sur_Sagar_TV.png/180px-Sur_Sagar_TV.png" group-title="मनोरंजन",Sur Sagar TV
 http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvpunjab.com/wp-content/uploads/2017/03/final-logo1-web-tv-punjab-1.png" group-title="मनोरंजन",TV Punjab
@@ -284,7 +296,7 @@ http://cdn.samtv.ca/tvpunjab/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeepunjabharyanahima/list/170x120/09zeepunjabharyanahimazeep.png" group-title="मनोरंजन", Lollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeepunjabharyanahima/list/170x120/09zeepunjabharyanahimazeep.png" group-title="मनोरंजन", Zee Punjabi
-http://z5amshls.akamaized.net/punjabi/tracks-v1a1/index.m3u8
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6676/index.m3u
 
 #EXTINF:-1 tvg-logo="https://politicalbaaba.files.wordpress.com/2018/08/unnamed.jpg" group-title="ਫਿਲਮਾਂ",ABP Sanjha
 https://abp-i.akamaihd.net/hls/live/765533/abpsanjha/masterhls_1564.m3u8
@@ -298,11 +310,19 @@ http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
 http://cdn.samtv.ca/ptv24/index.m3u8
 #EXTINF:-1 tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/62/dd/32/62dd329e-af60-9ca1-6776-ec54352dbbcd/AppIcon-1x_U007emarketing-85-220-0-9.png/1200x630wa.png" group-title="ਫਿਲਮਾਂ",Prime Canada
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="http://primeasia.tv/assets/front/images/logo-new1.png" group-title="ਫਿਲਮਾਂ",Prime Asia
 http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-NEWS-1.png" group-title="ਫਿਲਮਾਂ",PTC News
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6674/index.m3u
+#EXTINF:-1 tvg-logo="https://static.hindi.news18.com/ibnkhabar/uploads/2018/03/news18-punjab-haryana-himachal.gif group-title="ਫਿਲਮਾਂ",News18 Punjab
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6677/index.m3u
+#EXTINF:-1 tvg-logo="http://sanjhatv.ca/wp-content/uploads/2020/05/logo-sanjha-1536x1414.png group-title="ਫਿਲਮਾਂ",News Only
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6684/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/punjab_music.png" group-title="ਸੰਗੀਤ",5aab Music
 http://158.69.124.9:1935/5aabtv/5aabmusic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.9xtashan.in/wp-content/uploads/2016/04/logo.png" group-title="ਸੰਗੀਤ",9X Tashan
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6672/index.m3u
 #EXTINF:-1 tvg-logo="https://jio-tv.com/uploads/tv_image/aaho-music.png" group-title="ਸੰਗੀਤ",Aaho Music
 https://v.viralshit.in/live/aahomusic.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-165/list/170x120/09165booglebollywood.png" group-title="ਸੰਗੀਤ",Boogle Bollywood 
@@ -319,13 +339,21 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pitaara.tv/wp-content/uploads/2020/09/pitaaralogo.png" group-title="ਫਿਲਮਾਂ",Pitaara
 https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-Chak-De-1.png" group-title="ਸੰਗੀਤ",PTC Chak De
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6673/index.m3u
+#EXTINF:-1 tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/DHOL-TV-1.png" group-title="ਸੰਗੀਤ",PTC Dhol TV
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6688/index.m3u
+#EXTINF:-1 tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-Music-1.png" group-title="ਸੰਗੀਤ",PTC Music
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6689/index.m3u
 #EXTINF:-1 tvg-logo="https://dreamdth.com/wp-content/uploads/2019/12/Maha-Punjabi-1024x579.jpg" group-title="फ़िल्म",Maha Punjabi
 http://103.144.200.7:8080/hls/ttv/index.m3u8
+#EXTINF:-1 tvg-logo="http://sanjhatv.ca/wp-content/uploads/2020/05/logo-sanjha-1536x1414.png group-title="फ़िल्म",Only Music
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6683/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.5aabtv.ca/public/assets/frantend/images/punjab_gurbani.png" group-title="ਧਰਮ",5aab Gurbani
 http://158.69.124.9:1935/5aabtv/5aabgurbani/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://fatehtvonline.com/wp-content/uploads/2014/10/Untitled-3.gif" group-title="ਧਰਮ",Fateh TV 
-http://175.176.184.11:1935/live/fatehtv/playlist.m3u8
+https://rtmp.smartstream.video/fatehtv/fatehtv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/logo/7/3927.png" group-title="ਧਰਮ",GDNS Ludhiana
 http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://content.hungama.com/audio%20album/display%20image/300x300%20jpeg/5992517923.jpg" group-title="ਧਰਮ",Amritvaani
@@ -334,6 +362,8 @@ https://linear09hun-lh.akamaihd.net/i/amritvaani_1@685718/master.m3u8
 http://radio.lapunjabiradio.com/hls/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanshitv.co.uk/themes/custom/kanshitv/bootstrap/assets/images/kanshitv-logo.png" group-title="ਧਰਮ",Gurbaanihealing
 http://live.wmncdn.net/gurbanihealing/e09c9e2a70cc03a0b6d2171391dd682b.sdp/index.m3u8
+#EXTINF:-1 tvg-logo="https://templesinindiainfo.com/wp-content/uploads/2020/05/Garv-Gurbani-TV.jpg" group-title="ਧਰਮ",Garv Punjab Gurbani
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6679/index.m3u
 #EXTINF:-1 tvg-logo="https://www.jhanjartvindia.com/images/Jhanjar_Logo.png" group-title="ਧਰਮ",Jhanjar
 http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
 #EXTINF:-1 tvg-logo="https://www.kanshitv.co.uk/themes/custom/kanshitv/bootstrap/assets/images/kanshitv-logo.png" group-title="ਧਰਮ",Kanshi TV
@@ -342,6 +372,8 @@ https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/83/74/55/8374557a-7e1b-dc56-e79a-7494fd40a275/source/60x60bb.jpg" group-title="ਧਰਮ",Namdhari
 https://namdhari.tv/live/sbs1.m3u8
+#EXTINF:-1 tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTC-simran-1.png" group-title="ਧਰਮ",PTC Simran
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6687/index.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cE2RMaf.png" group-title="ਧਰਮ",Saint TV
 http://159.203.9.134/hls/saint_tv/saint_tv.m3u8
 #EXTINF:-1 tvg-logo="http://sangattelevision.org/wp-content/uploads/2012/08/san_logo1.png" group-title="ਧਰਮ",Sangat TV
