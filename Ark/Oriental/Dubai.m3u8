@@ -1189,7 +1189,7 @@ http://82.212.74.5:8000/live/hls/7728.m3u8
 http://live.creacast.com/cna/smil:cna.smil/chunklist_w1780122037_b864000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://alkompis.se/iptv/wp-content/uploads/2019/05/28ufcvwr9v3oukq.png" group-title="الدزاير",Ennahar TV
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://tv.echoroukonline.com/wp-content/themes/echorouk-channels/images/large-logo.png group-title="الدزاير",Echorouk News
+#EXTINF:-1 tvg-id="" tvg-logo="https://tv.echoroukonline.com/wp-content/themes/echorouk-channels/images/large-logo.png" group-title="الدزاير",Echorouk News
 http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv.echoroukonline.com/wp-content/themes/echorouk-channels/images/large-logo.png" group-title="الدزاير",Echorouk TV
 http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukTV/playlist.m3u8
