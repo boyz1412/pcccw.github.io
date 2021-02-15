@@ -403,7 +403,7 @@ http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 tvg-id="TBX.TW" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" group-title="臺灣",TVBS新聞
 http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 #EXTINF:-1 tvg-id="TBL.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="臺灣",TVBS歡樂
-http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
+rtmp://59.124.75.156/sat/tv421
 #EXTINF:-1 tvg-id="SLX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="臺灣",三立新聞
 http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 #EXTINF:-1 tvg-id="SLC.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="臺灣",三立財經新聞
@@ -424,8 +424,6 @@ http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177
 https://youtu.be/LWwepk1p5kE
 #EXTINF:-1 tvg-id="YZM.TW" tvg-logo="http://titv.ipcf.org.tw/images/logo.png?v1.1" group-title="臺灣",原住民電視
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/911_c2a7df1f45d40aa410d109a10fb32a54.png" group-title="臺灣",空中英語教室
-http://220.158.149.28:8180/live/TV00000000000000000077@HHZT
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.chtv.com.hk/UpLoadFile/image/20180412/20180412100657_98319.png" group-title="臺灣",中华卫视臺灣
 http://pull.leshantangjt.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.lifetv.org.tw/main/img/lifetv.png" group-title="臺灣",生命電視台
@@ -586,7 +584,7 @@ http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 http://221.157.125.239:1935/live/psike/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cjb.co.kr/home/images/layout/f_logo.gif" group-title="한국",CJB청주방송(SBS 淸州)
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-VIkvWZyCkpY/ViKUYhhsKAI/AAAAAAAABRg/JmsI4ft8_n4/s1600/KNN%2B%25EB%25A1%259C%25EA%25B3%25A0-1.png group-title="한국",KNN SBS
+#EXTINF:-1 tvg-id="" tvg-logo="https://2.bp.blogspot.com/-VIkvWZyCkpY/ViKUYhhsKAI/AAAAAAAABRg/JmsI4ft8_n4/s1600/KNN%2B%25EB%25A1%259C%25EA%25B3%25A0-1.png" group-title="한국",KNN SBS
 http://211.220.195.200:1935/live/mp4:KnnTV.sdp/chunklist_w1445879965.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/JTBC.kr.png" group-title="한국",JTBC
@@ -717,7 +715,7 @@ http://211.245.55.198:1024/m2u/239.192.68.7:49220
 #EXTINF:-1 tvg-id="" tvg-logo="https://t1.daumcdn.net/cfile/tistory/2211273A5694FEDF30" group-title="한국",텔레노벨라
 http://211.245.55.198:1024/m2u/239.192.66.3:49220
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.natv.go.kr/renew09/brd/img/common/logo.gif group-title="한국",국회 방송
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.natv.go.kr/renew09/brd/img/common/logo.gif" group-title="한국",국회 방송
 http://211.245.55.198:1024/m2u/239.192.64.5:49220
 #EXTINF:-1 tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-obs-w.jpg" group-title="한국",OBS W
 http://121.160.102.99:1935/live/myStream.sdp/playlist.m3u8
