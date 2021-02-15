@@ -473,14 +473,10 @@ http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
 #EXTINF:-1 tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="မြန်မာဘာသာ",MRTV 4
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.videoinya.com/wp-content/uploads/2016/02/Hluttaw-channel.png" group-title="မြန်မာဘာသာ",MRTV Hluttaw
-http://220.158.149.28:8180/live/TV00000000000000000167@HHZT
 
 #EXTINF:-1 tvg-logo="https://www.videoinya.com/wp-content/uploads/2016/02/Hluttaw-channel.png" group-title="မြန်မာဘာသာ",MRTV Hluttaw
 rtmp://203.81.81.229/livepkgr/HTT
 
-#EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-01-09_1.jpeg" group-title="မြန်မာဘာသာ",MRTV Farmer
-http://220.158.149.28:8180/live/TV00000000000000000168@HHZT
 #EXTINF:-1 tvg-logo="https://www.onia.tv/files/picture/2019-11-22/tvchannel_2019-11-22-11-01-09_1.jpeg" group-title="မြန်မာဘာသာ",MRTV Farmer
 rtmp://203.81.81.229/livepkgr/farmer
 
@@ -492,8 +488,6 @@ rtmp://203.81.81.229/livepkgr/MITV
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/th/Channel7.th.png" group-title="မြန်မာဘာသာ",Channel 7
 https://foreveralive1-a.akamaihd.net/eaf0b5986db748fdacdbc450f602b373/ap-southeast-1/6057949479001/profile_1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.myanmartvchannel.com/assets/images/channel/channel9.jpg" group-title="မြန်မာဘာသာ",Channel 9
-http://220.158.149.28:8180/live/TV00000000000000000169@HHZT
 #EXTINF:-1 tvg-logo="http://www.myanmartvchannel.com/assets/images/channel/channelk.jpg" group-title="မြန်မာဘာသာ",Channel K
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
 #EXTINF:-1 tvg-logo="https://www.myanmartvchannels.com/assets/images/channel/dvb.jpg" group-title="မြန်မာဘာသာ",DVB
@@ -713,8 +707,6 @@ http://36.37.252.114:888/Apple/OneTV-008/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-015/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.hangmeas.com.kh/wp-content/themes/ZobenzRHM/assets/img/logos/RHM-HDTV_New-2017.gif" group-title="កម្ពុជា",Hang Meas HDTV
 http://36.37.252.114:888/Apple/OneTV-014/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-rQe8CQEC28I/XEHaT1PudII/AAAAAAAAIWw/qC3aN1BZcdAXGAH0ZcE4H7N2JxvMGRSggCLcBGAs/s1600/ctv8.png" group-title="កម្ពុជា",CTV8
-http://220.158.149.28:8180/TV00000000000000000037@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a5/Tv9cambodiaHDTV.png/revision/latest?cb=20191208065712" group-title="កម្ពុជា",TV9
 http://36.37.252.114:888/Apple/OneTV-022/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mytv.com.kh/wp-content/uploads/2017/08/s5_logo-1-1.png" group-title="កម្ពុជា",myTV
@@ -725,8 +717,6 @@ http://167.99.65.12:1935/live/myStream/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-024/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://pnn.com.kh/assets/img/logo.png" group-title="កម្ពុជា",PNN
 http://36.37.252.114:888/Apple/OneTV-019/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://news.cgtn.com/news/3345544d78597a6333566d54/img/f653a0f9-12c1-4e5d-9206-6c8ebc3b590c.jpg" group-title="កម្ពុជា",Nice TV
-http://220.158.149.26:8182/hls/TV00000000000000000124@HHZT.m3u8
 #EXTINF:-1 tvg-logo="https://i.malimarcdn.com/kh/TeaTV2HD.jpg" group-title="កម្ពុជា",Tea TV
 https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/g3KXvbvwbuSuwZhm_RG--7rfCAvlnOsSzaLBFKd1XmRlHNxyvKzaf23GTmvsXm-OYg=s180-rw" group-title="កម្ពុជា",Wiki TV
