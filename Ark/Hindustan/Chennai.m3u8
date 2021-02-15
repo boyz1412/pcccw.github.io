@@ -10,7 +10,7 @@ http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6701/index.m3u
 #EXTINF:-1 tvg-logo="http://jayatvnetwork.com/images/JAYA_TV_LOGO_YELLOW_FINAL.png" group-title="பொழுதுபோக்கு",Jaya TV
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6696/index.m3u
-#EXTINF:-1 tvg-id="SUN.IN" tvg-logo="https://static.epg.best/in/ZeeTamil.in.png group-title="பொழுதுபோக்கு",Zee Tamil
+#EXTINF:-1 tvg-id="SUN.IN" tvg-logo="https://static.epg.best/in/ZeeTamil.in.png" group-title="பொழுதுபோக்கு",Zee Tamil
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6704/index.m3u
 
 #EXTINF:-1 tvg-logo="https://threetamil.tv/wp-content/uploads/2019/03/cropped-3-tamil-1.png" group-title="பொழுதுபோக்கு",3 Tamil
@@ -185,6 +185,8 @@ https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sd
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/Udaya.in.png" group-title="ಕನ್ನಡ",Udaya TV
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6648/index.m3u
+#EXTINF:-1 tvg-logo="https://images.hindi.news18.com/ibnkhabar/uploads/assests/img/news18-kannada-site.png" group-title="ಕನ್ನಡ",News 18 Kannda
+https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_5_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-9P4HNGwkhC8/WUyyp6FsVaI/AAAAAAAADpE/oiaArBTHTL8Hfrgdyqb2a7JNRIEavebsACLcBGAs/s1600/svbc2_tamil.png" group-title="తెలుగు",SVBC
 https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/index.m3u8
@@ -270,7 +272,7 @@ https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MtktZBL.jpg" group-title="മലയാളം",Media Net Adimaly
 http://150.242.21.2/medianet.m3u8
 #EXTINF:-1 tvg-logo="https://static.malayalam.news18.com/malayalam/uploads/2020/03/malyalam1.png" group-title="മലയാളം",News18 Kerala
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6657/index.m3u
+https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.reporter.live/wp-content/themes/reporter_english/images/logo_latest.png" group-title="മലയാളം",Reporter TV
 http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
 #EXTINF:-1 tvg-logo="https://just4jolly.com/wp-content/uploads/2016/07/tcvthrissur1.png" group-title="മലയാളം",TCV
@@ -287,10 +289,9 @@ http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6660/index.m3u
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/ZeeMarathi.in.png" group-title="मराठी ",Zee Marathi
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6658/index.m3u
 #EXTINF:-1 tvg-logo="https://static.lokmat.news18.com/ibnlokmat/uploads/2020/03/lokmat.png" group-title="मराठी ",News18 Lokmat
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6661/index.m3u
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.sonymarathi.com/images/arc-logo.png" group-title="मराठी ",Sony Marathi
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6662/index.m3u
-
 
 #EXTINF:-1 tvg-logo="http://vnews.mv/themes/vmedia/images/vtv.png" group-title="ިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",VTV
 http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
