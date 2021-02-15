@@ -164,7 +164,7 @@ http://z5amshls.akamaized.net/kalak/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tv9gujarati.com/wp-content/themes/tv9gujarati/images/TV9Gujarati57x57.png" group-title="ગુજરાતી",TV9 Gujarati
 https://vidcdn.vidgyor.com/tv9gujarati-origin/live/tv9gujarati-origin/live4/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.gujarati.news18.com/static-guju/uploads/2020/03/gujarati.png" group-title="ગુજરાતી",News18 Gujarati
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6644/index.m3u
+https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://templesinindiainfo.com/wp-content/uploads/2020/05/Swar-Shree-TV.jpg" group-title="ગુજરાતી",Swar Shree
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6645/index.m3u
 
@@ -261,7 +261,7 @@ http://edge-ind.inapcdn.in:1935/device2/camera2.stream/chunklist.m3u8
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://arynews.tv/wp-content/uploads/2018/03/news-logo-2-1.jpgg" group-title="تفریح",Ary News
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6720/index.m3u
-#EXTINF:-1 tvg-id="" tvg-logo="https://abbtakk.s3.ap-southeast-1.amazonaws.com/en/wp-content/uploads/2019/01/27194509/abbtakknew1.png group-title="خبریں",Abb Tak
+#EXTINF:-1 tvg-id="" tvg-logo="https://abbtakk.s3.ap-southeast-1.amazonaws.com/en/wp-content/uploads/2019/01/27194509/abbtakknew1.png" group-title="خبریں",Abb Tak
 http://cdn2.jazztv.pk:8085/jazzauth/AbbTakNews-133/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.aaj.tv/_img/logo-title.png" group-title="خبریں",AJJ News
 http://cdn2.jazztv.pk:8085/jazzauth/AAJNews-124/playlist.m3u8
@@ -284,7 +284,7 @@ http://streamer64.ebound.tv/tv/roze/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/pk/SamaaTV.pk.png" group-title="خبریں",Sama Tv
 http://cdn2.jazztv.pk:8085/jazzauth/Samaa-157-3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.urdu.news18.com/static-urdu/2020/03/Urdu1-1.png" group-title="خبریں",News18 Urdu
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6734/index.m3u
+https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.24newshd.tv/uploads/theme/logo-1580807238.png" group-title="خبریں",24News
 http://cdn2.jazztv.pk:8085/jazzauth/24HD-146/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.dawnnews.tv/_img/logo.png" group-title="خبریں",Dawn News
