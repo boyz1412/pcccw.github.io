@@ -1108,7 +1108,7 @@ https://iptv--iptv.repl.co/Hebrew/keshet_12
 #EXTINF:-1 tvg-id="" tvg-logo="http://content.osn.com/bob/745x419/KT1.jpg" group-title="Middle East",Kuwait 1(Kuwait)
 https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-L-1-636916940695846700.png" group-title="Middle East",Al Summaria(Iraq)
-http://iptv--iptv.repl.co/Arabic/Al_summaria
+http://iptv.repl.co/Arabic/Al_summaria
 
 #EXTINF:-1 tvg-id="LBI.LB" tvg-logo="https://static.epg.best/lb/LBCInternational.lb.png" group-title="Middle East",LBC Int(Lebanon)
 https://hiplayer.hibridcdn.net/p/rotana-lbc/playlist.m3u8
