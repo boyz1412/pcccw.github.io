@@ -1104,6 +1104,10 @@ https://livetv.farsiland.com/varzesh.m3u8
 https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8|X-Forwarded-For=87.239.255.120
 #EXTINF:-1 tvg-id="12.IL" tvg-logo="https://static.epg.best/il/12Keshet.il.png" group-title="Middle East",Channel 12(Israel)
 https://iptv--iptv.repl.co/Hebrew/keshet_12
+#EXTINF:-1 tvg-id="12.IL" tvg-logo="https://i.ibb.co/qBKNrv5/keshet.png" group-title="Middle East", KESHET 12
+https://keshethlslive-lh.akamaihd.net/i/CH12CC_1@732426/index_2200_av.m3u8|X-Forwarded-For=87.239.255.120
+#EXTINF:-1 tvg-id="12.IL" tvg-logo="https://i.ibb.co/6PPHnBS/13.png" group-title="Middle East", RESHET 13
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://content.osn.com/bob/745x419/KT1.jpg" group-title="Middle East",Kuwait 1(Kuwait)
 https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_1080p/chunks.m3u8
