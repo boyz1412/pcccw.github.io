@@ -820,7 +820,7 @@ http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://alsharqiyatv.info/news.jpg" group-title="ایران",Al Sharqiya News
 http://188.138.57.138:1935/alsharqiyalive/smil:test01.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-L-1-636916940695846700.png" group-title="ایران",Al Summaria
-http://iptv--iptv.repl.co/Arabic/Al_summaria
+http://iptv.repl.co/Arabic/Al_summaria/
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.alrasheedmedia.com/wp-content/themes/alrasheedv2/images/logos/logo-small.png" group-title="ایران",Al Rasheed
 http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="ایران",Aramaic Broadcasting Network
