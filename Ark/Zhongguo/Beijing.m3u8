@@ -539,9 +539,12 @@ https://5cf58a556f9b2.streamlock.net:443/live/tv_jejumbc/playlist.m3u8
 http://121.160.102.99:1935/jmbc_tv/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="한국",KBS 1
-http://211.245.55.198:1024/m2u/239.192.67.100:49220
+http://95.217.44.77:80/mbc/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="한국",KBS 1
+http://95.217.44.77:80/kbs1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="한국",KBS 2
-http://211.245.55.198:1024/m2u/239.192.67.99:49220
+http://95.217.44.77:80/kbs2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/KBSDrama.kr.png" group-title="한국",KBS Drama
 http://211.245.55.198:1024/m2u/239.192.49.6:49220
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/KBSWorld.us.png" group-title="한국",KBS World
@@ -556,7 +559,7 @@ http://211.245.55.198:1024/m2u/239.192.58.9:49220
 http://211.245.55.198:1024/m2u/239.192.57.8:49220
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="한국",SBS
-http://211.245.55.198:1024/m2u/239.192.41.2:49220
+http://95.217.44.77:80/sbs/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/SBSPlus.kr.png" group-title="한국",SBS Plus
 http://211.245.55.198:1024/m2u/239.192.49.7:49220
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="한국",SBS International
@@ -588,7 +591,8 @@ http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 http://211.220.195.200:1935/live/mp4:KnnTV.sdp/chunklist_w1445879965.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/JTBC.kr.png" group-title="한국",JTBC
-http://211.245.55.198:1024/m2u/239.192.58.7:49220
+http://95.217.44.77:80/jtbc/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.jtbcgolfnsports.joins.com/common/logo_20200102.png" group-title="한국",JTBC GOLF&SPORTS
 http://211.245.55.198:1024/m2u/239.192.69.7:49220
 #EXTINF:-1 tvg-id="" tvg-logo="http://image.jtbcgolf.joins.com/main/191218_h_top_logo.png" group-title="한국",JTBC Golf
