@@ -503,7 +503,7 @@ https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="한국",MBC
 rtmp://imbconairtv.imbc.com/imbc_onairtv/_definst_/onairtv_500k.stream?id=2101&si=9&secure=MmRkYTQyOTMwZTM3Y2YyMDAzOWVhODBmOWE3MDViYTlkOTY3MTRkNzU2ZWNjOTAxYzQ4NjhjNTFiNGYwNGM5MDYwNjI0ZDI1MWU0MzQ2NjY1NjRlNmI1MmViNGJkOWIzNWQ4N2JlODY4YTU3ZDk5NDEyMWIzZjUzMjkzZjI4YjZjYjhiZDdlMTRmYWIwODBjODY4ZDUxMzg4NTc3NzZiMTQyOTk0NDJlZWNjMDUyM2I3MmU3NzQxMGNkZjVjNmQ4NDBjNTFhNzBjMmE3ODg0ZTA3ZTIwZGYwYjRhODBlNDMxYTlmNzFmODhhYmVkY2U2MDBkYmIxZDIxOTYxZTA0ODZjMzQ4YjhkMGViMmIyNzg4MmVhMWM0MmY4MWI1OTVmY2VlM2QzOGRkMjcyYzg5ZDA2Y2RmNWNiN2QyMzYwNTg=&csu=false
 #EXTINF:-1 tvg-id="" tvg-logo="http://img.imbc.com/commons/2018/image/main/mbc-logo.png" group-title="한국",MBC
-http://211.245.55.198:1024/m2u/239.192.40.26:49220
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.skylife.co.kr/upload/channel/201902/MBC_ON_logo.jpg" group-title="한국",MBC On
 http://1.248.219.167/on_preview_500k/_definst_/on_preview_500k.stream/playlist.m3u8?id=2101&si=0&secure=YzBkMzZiMTMxMmI5OTE0OTg4ZjM0MzE4NTI0MzYwOGVhM2MxODg2NzIzOWQ2NDEzMjk2NTA4OGYwZDNkMjEyZjI1MDcwNjExZTkzZTI2NTVkNzk0NGFjMzA1ZWM2NmIzMzJhYjQ2MjZkOGIzYjc3YTc5N2UyOGY4ZmRlNDc3ZTAxMDQ3YWFhMWYyZTA0ODRjM2RhMWYzMWU0YWYwNTQ3OGMzODRmNjgxY2JhZGUwYmRiZjU3YmI0YjAzZTczNzE4ZjI0NTYzMzVjMGFiOGFkM2MxZmViMmI5MGU3YTRlYzhiZDY3OGNhOTExZmZjZDVlZDU3ZGEzNTM3MjBkN2VhZjc4YzY3N2VhY2FiMmU3MWE2YmNhOWRjMjVlNWE0YjQxN2Q3YjI2M2Y2YmNlYWVjMzljMzhlMThjM2QzODI5ZGIwNjZhYWU2NGFmNDg5NWNjMDUwMjBiODAzM2EwOGVmMQ==&csu=false
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/MBCEvery1.kr.png" group-title="한국",MBC Every 1
