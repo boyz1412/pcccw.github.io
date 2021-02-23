@@ -433,7 +433,7 @@ https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master480p.m3u8|X-For
 #EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo-300x300.png" group-title="Pilipinas",Kapamilya Channel
 https://amdottlive.akamaized.net/hls/live/2014575/iwantabscbn/master480p.m3u8|X-Forwarded-For=45.134.224.4
 #EXTINF:-1 tvg-logo="https://static.epg.best/ph/CNNPhilippines.ph.png" group-title="Pilipinas",CNN Phillippines
-http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sa.kapamilya.com/absnews/abscbnnews/media/2020/graphics/dzmm-logo-lrg.jpg" group-title="Pilipinas",DZMM TeleRadyo
 https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/bitrate_2.m3u8
 #EXTINF:-1 tvg-logo="http://www.tv5.com.ph/assets/images/5%20logo%202019%20final-01.png" group-title="Pilipinas",5 Network
@@ -450,6 +450,8 @@ http://cltv36-lh.akamaihd.net/i/cltv36_1@300961/master.m3u8
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelPhilippines_1@310362/index_2000_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://mytvmychannel.com/wp-content/uploads/2017/11/fb1bcb_debc6bb5e6334e6aba959e0a8e1fd6b6_mv2_d_2700_1944_s_2.png" group-title="Pilipinas",MyTV Cebu
 http://api.new.livestream.com/accounts/15418593/events/4787138/live.m3u8
+#EXTINF:-1 tvg-logo="https://eaglebroadcasting.net/wp-content/uploads/2013/12/NET25_NEW_LOGO_PNG_SMALL.png" group-title="Pilipinas",Net 25
+https://ebc.sytes.net/hls/net25.m3u8
 #EXTINF:-1 tvg-logo="https://philippines.mom-rsf.org/uploads/tx_lfrogmom/media/1020-167_import.png" group-title="Pilipinas",INC
 https://churchrus2-lh.akamaihd.net/i/coctesting_1@57550/index_1500_av-p.m3u8?
 #EXTINF:-1 tvg-logo="http://smni.com/static/media/logo.0727af64.png" group-title="Pilipinas",SMNI
@@ -458,7 +460,7 @@ http://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
 #EXTINF:-1 tvg-logo="https://www.tikilive.com/public/files/shows/157/157639/45392-294x165-FFFFFF.jpg" group-title="Pilipinas",Life TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/753895989904367616/GvgKNn1u.jpg" group-title="Pilipinas",Inquirer 990 TV
+#EXTINF:-1 tvg-logo="https://businessmirror.com.ph/wp-content/uploads/2020/07/DepEd.jpg" group-title="Pilipinas",DepEd TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.islandlivingchannel.tv/wp-content/uploads/2014/08/cropped-island_living_logo.png" group-title="Pilipinas",Island Living on BEAM
 https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/playlist.m3u8
@@ -466,6 +468,13 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_5/smil:channel_5.smil/playlist.m3u
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.untvweb.com/wp-content/themes/untvweb-2016/images/untv-news-and-rescue-logo.png" group-title="Pilipinas",UNTV Public
 https://www.untvweb.com/live-stream/untvweb.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ph-hope-channel-south-philippines-3778.jpg" group-title="Pilipinas",Hope Philippines
+https://hcfilipino.mmdlive.lldns.net/hcfilipino/f6e775755f2647159e0adefe01a44a0e/manifest.m3u8
+#EXTINF:-1 tvg-logo="http://gctv.asia/img/gctv-logo.png" group-title="Pilipinas",GCTV
+http://45.32.115.103/live/livestream/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/5e71ab9e744c0d5faca1944b/1586405093841-DWVAMD6LEIRTUHFG02Z1/new+logo.png" group-title="Pilipinas",TBN Asia
+https://d3cbe0gidjd4k2.cloudfront.net/channel_4/smil:channel_4.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://zekerxa.com/img/Mrtv.101fd7fc.png" group-title="မြန်မာဘာသာ",MRTV
 http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
@@ -860,6 +869,37 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab5_SD.smil/chunklist_b2692000.m
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab10_SD.smil/chunklist_b2692000.m3u8
 #EXTINF:-1 tvg-logo="http://www.xemtivionline.live/logo/vtvcab16.jpg" group-title="Việt Nam",VTVcab16
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_b2692000.m3u8
+
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/97.png",VTVCab1 HD
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab1_SD_new1.smil/chunklist_w1434921760_b2692000.m3u8|referrer=http://www.xemtivimienphi.com
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/98.png",VTVcab2 HD - Phim Việt
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab2_SD_new1.smil/chunklist_w2130636636_b2692000.m3u8|referrer=http://www.xemtivimienphi.com
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/194.png",VTVcab4 HD
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab4_HD_new1.smil/chunklist_w1434921760_b2692000.m3u8|referrer=http://www.xemtivimienphi.com
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/100.png",VTVcab5 HD - E Channel HD
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab5_SD_new1.smil/chunklist_w1979543838_b2692000.m3u8|referrer=http://www.xemtivimienphi.com
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/101.png",VTVcab6 HD - HAYTV
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab6_SD_new1.smil/chunklist_w1979543838_b2692000.m3u8|referrer=http://www.xemtivimienphi.com
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/105.png",VTVcab7 HD
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab7_SD_new1.smil/chunklist_w2130636636_b2692000.m3u8|referrer=http://www.xemtivimienphi.com
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/102.png",VTVcab8 HD - BiBi
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab8_SD_new1.smil/chunklist_w819578077_b2692000.m3u8|referrer=http://www.xemtivimienphi.com
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/195.png",VTVcab9 HD - InfoTV
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab9_SD_new1.smil/chunklist_w1434921760_b2692000.m3u8|referrer=http://www.xemtivimienphi.com
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/105.png",VTVcab10 HD - Vie DRAMAS
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab10_SD_new1.smil/chunklist_w1979543838_b2692000.m3u8|referrer=http://www.xemtivimienphi.com
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/103.png",VTVcab12 HD - Style 
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab12_SD_new1.smil/chunklist_w2017891009_b2692000.m3u8|referrer=http://www.xemtivimienphi.com
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/phpKbpOAa_5d429d8e79e56.jpg",VTVcab15 HD - M Channel
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab15_SD_new1.smil/playlist.m3u8|referrer=http://www.xemtivimienphi.com
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/phpjWRupK_5d429dd81b83f.png",VTVCab16 HD - BDTV_SD
+https://vtsstr1.tv24.vn:443/live/_definst_/smil:VTVcab16_SD.smil/chunklist_w913268349_b2692000.m3u8|referrer=http://www.xemtivimienphi.com
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/104.png",VTVcab17 HD - Yeah1!TV
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab17_SD_new1.smil/chunklist_w1434921760_b2692000.m3u8|referrer=http://www.xemtivimienphi.com
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/99.png",VTVcab19 HD - Film TV
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab19_SD_new1.smil/chunklist_w2130636636_b2692000.m3u8|referrer=http://www.xemtivimienphi.com
+#EXTINF:-1 group-title="VTVcab" tvg-logo="https://mytv.com.vn/upload/channel/132.png",VTVcab20 HD
+https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab20_SD_new1.smil/chunklist_w387386695_b2692000.m3u8|referrer=http://www.xemtivimienphi.com
 
 #EXTINF-1 tvg-logo="https://mytv.com.vn/upload/channel/75.png" group-title="Việt Nam",VTC1
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC1-SD-720p/playlist.m3u8
