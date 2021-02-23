@@ -1,5 +1,24 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="tv.9" tvg-logo="https://i.mjh.nz/.images/tv.9.png" tvg-chno="1",TVNZ 1
+https://i.mjh.nz/nz/tv.9.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.10" tvg-logo="https://i.mjh.nz/.images/tv.10.png" tvg-chno="2",TVNZ 2
+https://i.mjh.nz/nz/tv.10.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.11" tvg-logo="https://i.mjh.nz/.images/tv.11.png" tvg-chno="3",Three
+https://i.mjh.nz/nz/tv.11.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.12" tvg-logo="https://i.mjh.nz/.images/tv.12.png" tvg-chno="4",Bravo
+https://i.mjh.nz/nz/tv.12.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.51" tvg-logo="https://i.mjh.nz/.images/tv.51.png" tvg-chno="11",The Edge TV
+https://i.mjh.nz/nz/tv.51.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+
+#EXTINF:-1 tvg-id="tv.37" tvg-logo="https://i.mjh.nz/.images/tv.37.png" tvg-chno="12",Choice TV
+https://i.mjh.nz/nz/tv.37.m3u8|X-Forwarded-For=202.89.4.222&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36&Referer=%20&Seekable=0
+
+
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&
@@ -123,7 +142,7 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
 
 #EXTINF:-1 tvg-ID="MBC.KR" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="日韩",MBC
-https://5c482867a8b63.streamlock.net/live/myStream.sdp/playlist.m3u8
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-ID="SBS.KR" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="日韩",SBS
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 
