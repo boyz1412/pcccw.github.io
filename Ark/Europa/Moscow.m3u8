@@ -27,17 +27,25 @@ https://s1.idata.uz/stch_temp4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/DiscoveryScience.ru.png" group-title="Россия",Discovery Россия
 https://s1.idata.uz/stch_temp10/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/au/Eurosport.au.png" group-title="Россия",Eurosport Россия
+#EXTINF:-1 tvg-logo="https://static.epg.best/it/Eurosport.it.png" group-title="Россия",Eurosport 1 Россия
 https://s1.idata.uz/stch_temp21/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/it/Eurosport.it.png" group-title="Россия",Eurosport 1 Россия
+http://147.135.210.90:8081/tv/eurosport-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/it/Eurosport2.it.png" group-title="Россия",Eurosport 2 Россия
+http://147.135.210.90:8081/tv/eurosport-2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="Ўзбекистон",Disney Россия
 https://s1.idata.uz/stch_temp18/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/au/DiscoveryChannel.au.png" group-title="Ўзбекистон",Discovery Россия
+http://147.135.210.90:8081/tv/Discovery/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://static.epg.best/gb/NatGeo.uk.png" group-title="Ўзбекистон",National Geographic Россия
+http://147.135.210.90:8081/tv/national-geographic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://3abn.org/img/logos/3abn-russia-logo.jpg" group-title="Россия",3ABN
 https://hls.tv.3angels.ru/stream/HQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/STS.ru.png" group-title="Россия",СТС
-http://89.106.234.4:80/STS_34_35.m3u8
+http://147.135.210.90:8081/tv/sts-1b/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/Space.ru.png" group-title="Россия",Спас
 http://spastv.ru/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/NTV.ru.png" group-title="Россия",НТВ
@@ -50,6 +58,10 @@ http://51.195.44.53:8081/tv/tv3/playlist.m3u8
 http://51.195.44.53:8081/tv/domashniy/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.u-tv.ru/upload/iblock/9f7/ava.png" group-title="Россия",Ю
 http://51.68.141.106:8081/tv/u-3sa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/TNTInternational.ru.png" group-title="Россия",THT
+http://147.135.210.90:8081/tv/tnt/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/RENTV.ru.png" group-title="Россия",Рен ТВ
+http://147.135.210.90:8081/tv/ren-tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/Pjatnica.ru.png" group-title="Россия",Пятница!
 http://51.195.44.53:8081/tv/piatnica/playlist.m3u8
@@ -221,8 +233,12 @@ http://edge2.uk.kab.tv/rtplive/kabtv-rus-medium.stream/playlist.m3u8
 https://s3.idata.uz/dars6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/Kinohit.ru.png" group-title="Россия",Кинохит
 https://s1.idata.uz/stch_temp3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/02/31/10/1bj.png" group-title="Россия",Мужское кино
+http://147.135.210.90:8081/tv/mughskoe-kino/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/DomKino.ru.png" group-title="Россия",Дом кино
 http://51.195.44.53:8081/tv/dom-kino/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/ru/DomKino.ru.png" group-title="Россия",Дом Кино
+http://147.135.210.90:8081/tv/dom-kino/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/NashKinoroman.ru.png" group-title="Россия",Наше новое кино
 https://s1.idata.uz/stch_temp6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/ru/RodnoeKino.ru.png" group-title="Россия",Родное Кино
