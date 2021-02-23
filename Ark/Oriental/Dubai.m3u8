@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Alaraby_TV_Logo.png" group-title="Pan Arabic",Al Araby 1
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.basharq.com/bloomberg/images/logos_bloomberg.png" group-title="Pan Arabic",Asharq
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.alhurra.com/themes/custom/voa/images/sites_logos/logo_Al_Hurra.png" group-title="Pan Arabic",Alhurra
 http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.alhiwar.tv/all/images/logo.png" group-title="Pan Arabic",Alhiwar 
@@ -138,6 +140,18 @@ https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://almaaref.tv/wp-content/uploads/2018/10/almaaref-logo-2.png" group-title="الكويت",Al Maaref
 http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://alshahed.tv/wp-content/themes/twentyfifteen/asset/img/logo.png" group-title="الكويت",Al Shahed
+https://easybroadcast.akamaized.net/abr_live/Al-Shahed/live/Al-Shahed_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.atvkuwait.com/img/logo/atv_logo.png" group-title="الكويت",ATV
+https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://4.bp.blogspot.com/-Y0GeraQMoIs/VD18UURJY5I/AAAAAAAABpo/Dpd3sUiv-Dg/s1600/scope.pngg" group-title="الكويت",Scope TV
+https://gulfsat.cdn.easybroadcast.fr/live/Scope_abr/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ewsat.com/img/AL_BAWADI.png" group-title="الكويت",Al Bawadi
+https://gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.ass-media.de/pic/_data/i/upload/2016/06/05/20160605163155-867c0117-th.png" group-title="الكويت",Al Sabah
+https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.marinatv.me/images/marina_tv.png" group-title="الكويت",Marina TV
+https://gulfsat.cdn.easybroadcast.fr/abr_live/MarinaTv/live/MarinaTv_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://aghaniaghani.com/images/logo.png" group-title="لبنان",Aaghani
 https://mysat-live.ercdn.net/aghanitv/aghanitv.m3u8
@@ -1437,10 +1451,12 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_s
 https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://chadatv.com/wp-content/themes/chadatv/images/logo.png" group-title="المغرب",Chada TV
 https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Medi1_TV_logo.jpg/300px-Medi1_TV_logo.jpg" group-title="المغرب",Medi 1 Maghred
-https://streaming.medi1tv.com/live/Medi1tvmaghreb.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Medi1_TV_logo.jpg/300px-Medi1_TV_logo.jpg" group-title="المغرب",Medi 1 Afrique
-https://streaming.medi1tv.com/live/Medi1tvAfrique.sdp/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.medi1tv.com/ar/img/logo.gif" group-title="المغرب",Medi 1 Maghreb
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1tv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.medi1tv.com/ar/img/logo.gif" group-title="المغرب",Medi 1 Afrique
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.medi1tv.com/ar/img/logo.gif" group-title="المغرب",Medi 1 Arabic
+https://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.telemaroc.tv/img/logo.png" group-title="المغرب",Télé Maroc
 http://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 
