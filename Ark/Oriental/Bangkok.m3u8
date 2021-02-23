@@ -862,23 +862,35 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab10_SD.smil/chunklist_b2692000.
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab16_SD.smil/chunklist_b2692000.m3u8
 
 #EXTINF-1 tvg-logo="https://mytv.com.vn/upload/channel/75.png" group-title="Việt Nam",VTC1
-https://1067aba20.vws.vegacdn.vn/cliptv_liverecord/vtc1hd_abr/playlist.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC1-SD-720p/playlist.m3u8
 #EXTINF-1 tvg-logo="https://mytv.com.vn/upload/channel/21.png" group-title="Việt Nam",VTC2
-https://1067aba20.vws.vegacdn.vn/cliptv_liverecord/vtc2sd_abr/playlist.m3u8
+https://vtc130121.cdn.vnns.io/VTC2_abr/vtc130121/VTC2_abr_1080p/chunks.m3u8
 #EXTINF-1 tvg-logo="https://mytv.com.vn/upload/channel/83.png" group-title="Việt Nam",VTC3 
-https://1067aba20.vws.vegacdn.vn/cliptv_liverecord/vtc3hd_abr/playlist.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC3-HD-720p/playlist.m3u8
+#EXTINF-1 tvg-logo="https://mytv.com.vn/upload/channel/186.png" group-title="Việt Nam",VTC4
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC4-SD-ABR/HTV-ABR/VTC4-SD-720p/playlist.m3u8
+#EXTINF-1 tvg-logo="https://mytv.com.vn/upload/channel/187.png" group-title="Việt Nam",VTC5
+https://vtc130121.cdn.vnns.io/VTC5_abr/vtc130121/VTC5_abr_1080p/chunks.m3u8
+#EXTINF-1 tvg-logo="https://mytv.com.vn/upload/channel/23.png" group-title="Việt Nam",VTC6
+https://vtc130121.cdn.vnns.io/VTC6_abr/vtc130121/VTC6_abr_1080p/chunks.m3u8
 #EXTINF-1 tvg-logo="https://mytv.com.vn/upload/channel/188.png" group-title="Việt Nam",VTC7
-https://1067aba20.vws.vegacdn.vn/cliptv_liverecord/vtc7hd_abr/playlist.m3u8
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/TODAYTV-SD-720p/playlist.m3u8
 #EXTINF-1 tvg-logo="https://mytv.com.vn/upload/channel/164.png" group-title="Việt Nam",VTC8 
-https://1067aba20.vws.vegacdn.vn/cliptv_liverecord/vtc8sd_abr/playlist.m3u8
+https://vtc130121.cdn.vnns.io:443/VTC8_abr/vtc130121/VTC8_abr_1080p/chunks.m3u8
 #EXTINF-1 tvg-logo="https://mytv.com.vn/upload/channel/25.png" group-title="Việt Nam",VTC9
-https://1067aba20.vws.vegacdn.vn/cliptv_liverecord/vtc9hd_abr/playlist.m3u8
+https://vtc130121.cdn.vnns.io/VTC9_abr/vtc130121/VTC9_abr_1080p/chunks.m3u8
 #EXTINF-1 tvg-logo="https://mytv.com.vn/upload/channel/116.png" group-title="Việt Nam",VTC10
-https://1067aba20.vws.vegacdn.vn/cliptv_liverecord/vtc10sd_abr/playlist.m3u8
+https://vtc130121.cdn.vnns.io/VTC10_abr/vtc130121/VTC10_abr_1080p/chunks.m3u8
+#EXTINF-1 tvg-logo="https://mytv.com.vn/upload/channel/26.png" group-title="Việt Nam",VTC11
+https://vtc130121.cdn.vnns.io/VTC11_abr/vtc130121/VTC11_abr_1080p/chunks.m3u8
+#EXTINF-1 tvg-logo="https://mytv.com.vn/upload/channel/phpWgYcFl_5e1d3209b5e25.png" group-title="Việt Nam",VTC12
+https://vtc130121.cdn.vnns.io/VTC12_abr/vtc130121/VTC12_abr_1080p/chunks.m3u8
+#EXTINF-1 tvg-logo="https://mytv.com.vn/upload/channel/78.png" group-title="Việt Nam",VTC13
+https://vtc130121.cdn.vnns.io/VTC13_abr/vtc130121/VTC13_abr_1080p/chunks.m3u8
 #EXTINF-1 tvg-logo="https://mytv.com.vn/upload/channel/207.png" group-title="Việt Nam",VTC14
-https://1067aba20.vws.vegacdn.vn/cliptv_liverecord/vtc14hd_abr/playlist.m3u8
+https://vtc130121.cdn.vnns.io/VTC14_abr/vtc130121/VTC14_abr_1080p/chunks.m3u8
 #EXTINF-1 tvg-logo=https://mytv.com.vn/upload/channel/206.png" group-title="Việt Nam",VTC16
-https://1067aba20.vws.vegacdn.vn/cliptv_liverecord/vtc16sd_abr/playlist.m3u8
+https://vtc130121.cdn.vnns.io/VTC16_abr/vtc130121/VTC16_abr_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="Việt Nam",TV5 Monde Asie(Việt Nam)
 https://tv5asievi-i.akamaihd.net/hls/live/631619/tv5asievi/index.m3u8
