@@ -144,6 +144,9 @@ https://e10.habrox.xyz/ingestnb4s/sec_network/f.m3u8|Referer=https://espn-live.s
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/PH1Gg4p.png" group-title="USA/Canada",Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/Freeform.us.png" group-title="USA/Canada",FreeForm
+https://bozztv.com/teleyupp/IxagghMvR8/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FS1.US" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg" group-title="USA/Canada",FS1 USA
 http://4.26.188.2:8081/udp/239.193.10.101:23901
 #EXTINF:-1 tvg-id="FS2.US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/1200px-FS2_logo_2015.svg.png" group-title="USA/Canada",FS2 USA
