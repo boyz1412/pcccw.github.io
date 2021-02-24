@@ -296,9 +296,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 http://51.52.156.22:8888/http/009
 
 #EXTINF:-1 tvg-id="WAR.Asia" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png" group-title="Movies",Warner TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+https://laos-tech-live.b-cdn.net/hd-warnertv_720/index.m3u8
 
 #EXTINF:-1 tvg-id="CCP.ID" tvg-logo="https://img.onesignal.com/permanent/9fa457c4-0092-4dff-934c-2f43c60e759a.jpg" group-title="Movies",Colors Cineplex
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
