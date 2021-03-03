@@ -1353,6 +1353,10 @@ https://mdstrm.com/live-stream-playlist/5d88df173853e7072f3f953f.m3u8
 https://mdstrm.com/live-stream-playlist/5d88dfce3ba1c56921779e9b.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://paraguaype.com/wp-content/uploads/2017/04/AbcTvenvivoonline.AbcTvdesdeParaguay.jpg" group-title="Paraguái",ABC TV
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:-1 tvg-logo="https://paraguaype.com/wp-content/uploads/2017/09/Noticias-de-Paraguay-en-vivo.-Canal-NPY-en-vivo.-Noticias-24-Horas.jpg" group-title="Paraguái",NPY
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-video=3000000-audio_20000=144800.m3u8
 #EXTINF:-1 tvg-logo="https://telefuturo.com.py/assets/logo-telefuturo-iso-19027323668bd66f37b85d8adf07043f55463a94f18623c3490ab13dffa209fe.png" group-title="Paraguái",Telefuturo
 https://dcunilive75-lh.akamaihd.net/i/dclive_1@803849/index_150_av-p.m3u8
 #EXTINF:-1 tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanal452x70.png" group-title="Paraguái",Unicanal
