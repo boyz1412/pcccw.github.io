@@ -191,7 +191,7 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/Stream(03)/index.m3
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-id="ANT.ID" tvg-logo="https://static.epg.best/id/ANTV.id.png" group-title="Indonesia",ANTV
-https://ocstream.my.id/play/oxygen.m3u8?channel=antv
+https://gratismkctv.net/oxygen.m3u8??channel=antv
 #EXTINF:-1 tvg-logo="https://www.beritasatu.com/assets/img/news/news_logo.png" group-title="Indonesia",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
@@ -212,42 +212,25 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="SCT.ID" tvg-logo="https://www.sctv.co.id//assets/images/material/logo_sctv.png" group-title="Indonesia",SCTV
-https://ocstream.my.id/play/oxygen.m3u8?channel=sctv
+https://gratismkctv.net/oxygen.m3u8??channel=sctv
 
 #EXTINF:-1 tvg-id="DAA.ID" tvg-logo="https://static.epg.best/id/DaaiTv.id.png" group-title="Indonesia",Da Ai Indonesia
-https://ocstream.my.id/play/oxygen.m3u8?channel=daaitv
+https://gratismkctv.net/oxygen.m3u8??channel=daaitv
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="Indonesia",RCTI
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/RCTI.id.png" group-title="Indonesia",RCTI
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="Indonesia",INEWS
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rctiplus.com/assets/image/elements/logo-inews.png" group-title="Indonesia",INEWS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
-
 #EXTINF:-1 tvg-id="IDX.ID" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/100-international-ethnic-fta/121-idx.png" group-title="Indonesia",IDX Channel
 https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX.m3u8
 
-#EXTINF:-1 tvg-id="IDX.ID" tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/100-international-ethnic-fta/121-idx.png" group-title="Indonesia",IDX Channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
-
 #EXTINF:-1 tvg-logo="https://gtv.id/assets/images2020/logo.png" group-title="Indonesia",Global TV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://gtv.id/assets/images2020/logo.png" group-title="Indonesia",Global TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
 
 #EXTINF:-1 tvg-id="JAK.ID" tvg-logo="https://jak-tv.com/theme/jaktv/images/repository/jaktv-header-logo.png" group-title="Indonesia",Jak TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -255,12 +238,7 @@ https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd
 https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/MNCTV.id.png" group-title="Indonesia",MNC
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/MNCTV.id.png" group-title="Indonesia",MNC
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
-https://liveanevia.mncnow.id/live/eds/MNCTV/sa_dash_vmx/MNCTV.mpd
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
 
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_90.png" group-title="Indonesia",MNC Lifestyle
 http://210.210.155.66/h/h28/01.m3u8
@@ -276,8 +254,6 @@ https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 #EXTINF:-1 tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo.png" group-title="Indonesia",tVOne
 https://pcccw.github.io/pcccw.github.io/M3U8/Token/TvOne.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo.png" group-title="Indonesia",tVOne
-https://ocstream.my.id/play/oxygen.m3u8?channel=tvone 
 #EXTINF:-1 tvg-logo="http://www.listenfmradios.com/wp-content/uploads/2013/02/Metro-TV-Indonesia-Logo.jpeg" group-title="Indonesia",Metro
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
 
@@ -303,12 +279,12 @@ https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Logo-Kompas_TV.png" group-title="Indonesia",Kompas TV
-https://ocstream.my.id/play/oxygen.m3u8?channel=kompastv
+https://gratismkctv.net/oxygen.m3u8??channel=kompastv
 
 #EXTINF:-1 tvg-id="NET.ID" tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png" group-title="Indonesia",Net
-https://ocstream.my.id/play/oxygen.m3u8?channel=nettv
+https://gratismkctv.net/oxygen.m3u8??channel=nettv
 #EXTINF:-1 tvg-id="RTV.ID" tvg-logo="http://www.rtv.co.id/img/rtv.png" group-title="Indonesia",RTV
-https://ocstream.my.id/play/oxygen.m3u8?channel=rtv
+https://gratismkctv.net/oxygen.m3u8??channel=rtv
 
 #EXTINF:-1 tvg-logo="http://aditv.co.id/wp-content/uploads/2019/02/logo-aditv-5.png" group-title="Indonesia",ADiTV
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
