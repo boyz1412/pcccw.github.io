@@ -660,8 +660,8 @@ http://51.52.156.22:8888/http/006
 http://51.52.156.22:8888/http/007
 #EXTINF:-1 tvg-id="CTV.UK" tvg-logo="https://static.epg.best/gb/CITV.uk.png" group-title="UK",CITV
 http://51.52.156.22:8888/http/001
-#EXTINF:-1 tvg-id="CTV.UK" tvg-logo="https://static.epg.best/gb/CITV.uk.png" group-title="UK",ITV Be
-http://51.52.156.24:8888/http/010
+#EXTINF:-1 tvg-id="ITV.UK" tvg-logo="https://static.epg.best/gb/CITV.uk.png" group-title="UK",ITV Be
+http://51.38.62.145:8080/itvbe/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/us/BloombergTV.us.png" group-title="UK",Bloomberg UK
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.mediaparents.co.uk/images/avatars/modified_3bfa565acbf292e4eec2e8dd12f7fd3a.png" group-title="UK",British Muslim TV
