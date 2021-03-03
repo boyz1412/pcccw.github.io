@@ -106,7 +106,7 @@ https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4
 #EXTINF:-1 tvg-id="" tvg-logo="http://sanfrancisco.cbslocal.com/wp-content/uploads/sites/15116056/2019/11/60h-BAY-white-stacked.png" group-title="USA/Canada",CBSN Bay Area
 https://dai.google.com/linear/hls/event/VE8b4n-YStusEGv5Z2NmsQ/master.m3u8?iu=/4128/CBS.SF.OTT
 #EXTINF:-1 tvg-ID="CBC.News" tvg-logo="https://static.epg.best/ca/CBCNews.ca.png" group-title="USA/Canada",CBC News
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8|X-Forwarded-For=24.37.42.20
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8
 #EXTINF:-1  tvg-ID="CBC.CA" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="USA/Canada",CBC Ottawa
 https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8|X-Forwarded-For=24.37.42.20
 #EXTINF:-1  tvg-ID="CBC.CA" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="USA/Canada",CBC Quebec
