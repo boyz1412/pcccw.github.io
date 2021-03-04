@@ -539,6 +539,8 @@ https://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 http://183.182.100.184/live/pptvthai/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.amarintv.com/assets/images/logo.png" group-title="ประเทศไทย",Amarin TV
 http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
+#EXTINF:-1 tvg-logo="https://www.amarintv.com/assets/images/logo.png" group-title="ประเทศไทย",Ch8 Thai
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/360p/index.m3u8
 
 #EXTINF:-1 tvg-id="TV5.TH" tvg-logo="https://www.tv5.co.th/tv5hd1-web/img/tv5hd1_logo_light.png group-title="ประเทศไทย",ททบ 5
 http://110.170.117.27:1935/tv5hd1/vdo/playlist.m3u8
