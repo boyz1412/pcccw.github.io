@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="FHX.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4d/Phoenix_hongkong.png" group-title="香港",鳳凰衛視香港台
-http://live-hwcdn.utvlive.top/live/a4e8cf74196e40959485a9ef4c532d02/6286b2bbb78341cd9fa92c7b37ccc03c.m3u8
 #EXTINF:-1 tvg-id="NFW.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/GRT_Southern_STV.png" group-title="香港",南方衛視
 http://106.53.212.251/daili/gztv.php?id=tvs2
 #EXTINF:-1 tvg-id="ZJP.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/GRT_Southern_STV.png" group-title="香港",珠江頻道
@@ -203,7 +201,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225640/index.m3u8
 #EXTINF:-1 tvg-id="HUB.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="中国",湖北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
 #EXTINF:-1 tvg-id="JLW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="中国",吉林卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225637/index.m3u8
+http://stream4.jlntv.cn/test2/sd/live.m3u8
 #EXTINF:-1 tvg-id="JXW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="中国",江西卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225615/index.m3u8
 #EXTINF:-1 tvg-id="LNW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="中国",辽宁卫视
