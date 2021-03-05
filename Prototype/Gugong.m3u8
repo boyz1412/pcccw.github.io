@@ -367,51 +367,47 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV1.ID" tvg-logo="https://media.tvonenews.com/appasset/responsive/img/logo.png" group-title="Indonesia",TV One
 https://pcccw.github.io/pcccw.github.io/M3U8/Token/TvOne.m3u8
 
-
-#EXTINF:-1 tvg-id="TV5.TH" tvg-logo="https://www.tv5.co.th/tv5hd1-web/img/tv5hd1_logo_light.png" group-title="Thai",ททบ 5
-https://tc-live1.sanook.com/live/22302_ch5.m3u8
-#EXTINF:-1 tvg-id="TV5.TH" tvg-logo="https://www.tv5.co.th/tv5hd1-web/img/tv5hd1_logo_light.png" group-title="Thai",ททบ 5 HD
-http://110.170.117.27:1935/apptv5hd1live/vdo/chunklist.m3u8
-#EXTINF:-1 tvg-id="NBT.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/NBT_2009.png" group-title="Thai",NBT 2
-http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TPB.TH" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/thai-pbs-png-6.png" group-title="Thai",Thai PBS 3
-http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-id="ALT4.TH" tvg-logo="https://www.altv.tv/_nuxt/img/84f4d59.png" group-title="Thai",ALTV4
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1 tvg-id="TPT.TH" tvg-logo="http://live.parliament.go.th/images/coronationceremony/logo.png" group-title="Thai",TPTV
-http://49.231.66.85:1935/live/tptv/playlist.m3u8
-#EXTINF:-1 tvg-id="TNN.TH" tvg-logo="https://cms.dmpcdn.com/contentowner/2019/03/06/d7f12a36-50e5-4ffe-82ca-91fcf99e4ced.png" group-title="Thai",TNN16
-https://cdn6.goprimetime.info/feed/chtnn/index.m3u8
-#EXTINF:-1 tvg-id="NEW.TH" tvg-logo="https://www.newtv.co.th/assets/newtv/img/new18logo_new.png" group-title="Thai",New18
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/TH/NEW18.m3u8
-#EXTINF:-1 tvg-id="WPT.TH" tvg-logo="https://www.mvtv.co.th/wp-content/uploads/2019/06/voice-tv2.png" group-title="Thai",Voice TV
-https://edge6a.v2h-cdn.com/appt3/WOWSH.stream_720p/chunklist_w142679599.m3u8
-#EXTINF:-1 tvg-id="NAT.TH" tvg-logo="https://resource.nationtv.tv/assets/images-v5/logo-nationtv.png" group-title="Thai",Nation TV
-https://cdn6.goprimetime.info/feed/chnation/index.m3u8
-#EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="Thai",Workpoint
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/WPTV.m3u8
-#EXTINF:-1 tvg-id="GMM.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/GMM_25_Logo.png" group-title="Thai",GMM 25
-https://cdn6.goprimetime.info/feed/chgmm/index.m3u8
-#EXTINF:-1 tvg-id="TV8.TH" tvg-logo="https://www.thaich8.com/assets/images/ch8-log-23092019.png" group-title="Thai",ช่อง 8
-https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
-#EXTINF:-1 tvg-id="MON.TH" tvg-logo="https://www.brighttv.co.th/wp-content/uploads/2020/01/LOGO.png" group-title="Thai",Mono 29
-https://cdn6.goprimetime.info//feed//chmono29//index.m3u8
-#EXTINF:-1 tvg-id="MCO.TH" tvg-logo="https://tv.mcot.net/static/img/logo-mcothd.png" group-title="Thai",MCOT
-http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://www.one31.net/theme/images/logo-one31.png" group-title="Thai",ONE 31
-https://cdn6.goprimetime.info//feed//chonehd//index.m3u8
-#EXTINF:-1 tvg-id="TRA.TH" tvg-logo="https://www.thairath.co.th/assets/2017/img/logo-tv.png" group-title="Thai",Thairath TV
-https://cdn6.goprimetime.info/feed/chthairath/index.m3u8
-#EXTINF:-1 tvg-id="TV3.TH" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="Thai",ดูทีวีสีช่อง 3
+#EXTINF:-1 tvg-id="TV3.TH" tvg-logo="https://static.epg.best/th/Channel3.th.png" group-title="Southeast Asia",ดูทีวีสีช่อง 3 (Thailand)
 https://cdn6.goprimetime.info//feed//ch3hd//index.m3u8
-#EXTINF:-1 tvg-id="PPT.TH" tvg-logo="https://static.epg.best/th/PPTV.th.png" group-title="Thai",PPTV
-http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
-#EXTINF:-1 tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Thai",ช่อง 7
+#EXTINF:-1 tvg-id="TV7.TH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="Southeast Asia",ช่อง 7(Thailand)
 http://36.37.252.114:888/Apple/OneTV-037/playlist.m3u8
-#EXTINF:-1 tvg-id="AMA.TH" tvg-logo="https://www.amarintv.com/assets/images/logo.png" group-title="Thai",Amarin TV
-http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
-#EXTINF:-1 tvg-id="T4U.TH" tvg-logo="https://static.epg.best/th/true4U.th.png" group-title="Thai",True4U
-https://cdn6.goprimetime.info/feed/chtrue4u//index.m3u8
+#EXTINF:-1 tvg-id="MON.TH" tvg-logo="https://www.brighttv.co.th/wp-content/uploads/2020/01/LOGO.png" group-title="Southeast Asia",Mono 29(Thailand)
+https://cdn6.goprimetime.info//feed//chmono29//index.m3u8
+#EXTINF:-1 tvg-id="WPT.TH" tvg-logo="http://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" group-title="Southeast Asia",Workpoint(Thailand)
+https://pcccw.github.io/pcccw.github.io/M3U8/Token/WPTV.m3u8
+#EXTINF:-1 tvg-id="T31.TH" tvg-logo="https://www.one31.net/theme/images/logo-one31.png" group-title="Southeast Asia",ONE 31(Thailand)
+https://cdn6.goprimetime.info//feed//chonehd//index.m3u8
+#EXTINF:-1 tvg-id="GML.TH" tvg-logo="https://www.gmanetwork.com/res/portal_revamp/img/logo.png" group-title="Southeast Asia",GMA Life(Phillppines)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/fc256993b031626.m3u8
+#EXTINF:-1 tvg-id="GMP.TH" tvg-logo="https://static.epg.best/sa/GMAPinoyTV.sa.png" group-title="Southeast Asia",GMA Pinoy(Phillppines)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/cd1b220644affbb.m3u8
+#EXTINF:-1 tvg-id="GMN.PH" tvg-logo="https://static.epg.best/sa/GMANewsTVEn.sa.png" group-title="Southeast Asia",GMA News(Phillppines)
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976ebde68c.m3u8
+#EXTINF:-1 tvg-id="GMN.PH" tvg-logo="http://www.tv5.com.ph/assets/images/5%20logo%202019%20final-01.png" group-title="Southeast Asia",5 Network(Phillppines)
+http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/chunklist_w272324549_b628000.m3u8
+#EXTINF:-1 tvg-id="GMN.PH" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/07200017/ptv-logo-300x300.png" group-title="Southeast Asia",PTV(Phillppines)
+https://pcccw.github.io/pcccw.github.io/M3U8/Token/PH/PTVPH.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://zekerxa.com/img/Mrtv.101fd7fc.png" group-title="South East Asia",MRTV(Myanmar)
+http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://itisgadget.com/wp-content/uploads/2019/06/Myanmar-TV-Channel-MNTV-Live-Streaming.png" group-title="South East Asia",MNTV(Myanmar)
+https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg" group-title="South East Asia",MWD(Myanmar)
+http://203.81.84.130/hls/mwd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="South East Asia",MRTV-4(Myanmar)
+https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png" group-title="South East Asia",Mahar TV(Myanmar)
+https://live.mahar.tv/channel/mahar-web.smil/mahar-web.m3u8
+#EXTINF:-1 tvg-id="VT6.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv6-hd.png" group-title="South East Asia",VTV 6(Vietnam)
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="VT7.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv7-hd.png" group-title="Việt Nam",VTV 7(Vietnam)
+https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF-1 tvg-id="VC3.VN" tvg-logo="https://mytv.com.vn/upload/channel/83.png" group-title="South East Asia",VTC 3(Vietnam)
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC3-HD-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg" group-title="South East Asia",Vĩnh Long 1(Vietnam)
+https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv3_145672766359.jpg" group-title="South East Asia",HTV 3(Vietnam)
+https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
+
 
 #EXTINF:-1 tvg-ID="RAJ.IN" tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png" group-title="India",Raj TV
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
@@ -804,18 +800,6 @@ http://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
 https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
 #EXTINF:-1 tvg-ID="STE.US" tvg-logo="https://static.epg.best/us/StarzEncore.us.png" group-title="美洲精选",STARZ Encore
 https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
-
-#EXTINF:-1 tvg-id="KAP.PH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Kapamilya_Channel.png/345px-Kapamilya_Channel.png" group-title="South East Asia",Kapamilya Channel
-https://amdottlive.akamaized.net/hls/live/2014575/iwantabscbn/master480p.m3u8|X-Forwarded-For=45.134.224.4
-#EXTINF:-1 tvg-id="ANC.PH" tvg-logo="https://static.epg.best/ph/ANC.ph.png" group-title="South East Asia",ANC
-https://amdottlive.akamaized.net/hls/live/2015474/iwantanc/master480p.m3u8|X-Forwarded-For=45.134.224.4
-#EXTINF:-1 tvg-id="VT1.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv1-hd.png" group-title="South East Asia",VTV 1
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV1-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="VT6.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv6-hd.png" group-title="South East Asia",VTV 6
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="South East Asia",MRTV-4
-https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-
 
 #EXTINF:-1 tvg-id="MB1.SA" tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="Middle East",MBC 1(Saudi Arabia)
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_1.m3u8
