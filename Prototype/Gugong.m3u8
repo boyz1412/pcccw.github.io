@@ -387,26 +387,26 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976e
 http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/chunklist_w272324549_b628000.m3u8
 #EXTINF:-1 tvg-id="GMN.PH" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/07200017/ptv-logo-300x300.png" group-title="Southeast Asia",PTV(Phillppines)
 https://pcccw.github.io/pcccw.github.io/M3U8/Token/PH/PTVPH.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://zekerxa.com/img/Mrtv.101fd7fc.png" group-title="South East Asia",MRTV(Myanmar)
+#EXTINF:-1 tvg-id="" tvg-logo="https://zekerxa.com/img/Mrtv.101fd7fc.png" group-title="Southeast Asia",MRTV(Myanmar)
 http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://itisgadget.com/wp-content/uploads/2019/06/Myanmar-TV-Channel-MNTV-Live-Streaming.png" group-title="South East Asia",MNTV(Myanmar)
+#EXTINF:-1 tvg-id="" tvg-logo="https://itisgadget.com/wp-content/uploads/2019/06/Myanmar-TV-Channel-MNTV-Live-Streaming.png" group-title="Southeast Asia",MNTV(Myanmar)
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg" group-title="South East Asia",MWD(Myanmar)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mwd1-120x120-a44.jpg" group-title="Southeast Asia",MWD(Myanmar)
 http://203.81.84.130/hls/mwd/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="South East Asia",MRTV-4(Myanmar)
+#EXTINF:-1 tvg-id="" tvg-id="" tvg-logo="http://static.pyoneplay.com/static/channel/ch_thumb_1525319199.png" group-title="Southeast Asia",MRTV-4(Myanmar)
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png" group-title="South East Asia",Mahar TV(Myanmar)
+#EXTINF:-1 tvg-id="" tvg-logo="http://mahartv.com.mm/wp-content/uploads/2018/02/cropped-logo150x150.png" group-title="Southeast Asia",Mahar TV(Myanmar)
 https://live.mahar.tv/channel/mahar-web.smil/mahar-web.m3u8
-#EXTINF:-1 tvg-id="VT6.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv6-hd.png" group-title="South East Asia",VTV 6(Vietnam)
+#EXTINF:-1 tvg-id="VT6.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv6-hd.png" group-title="Southeast Asia",VTV 6(Vietnam)
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTV6-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="VT7.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv7-hd.png" group-title="Việt Nam",VTV 7(Vietnam)
+#EXTINF:-1 tvg-id="VT7.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv7-hd.png" group-title="Southeast Asia",VTV 7(Vietnam)
 https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF-1 tvg-id="VC3.VN" tvg-logo="https://mytv.com.vn/upload/channel/83.png" group-title="South East Asia",VTC 3(Vietnam)
+#EXTINF:-1 tvg-id="VT9.VN" tvg-logo="http://xemtivi.online/wp-content/uploads/2019/03/vtv9-hd-1.png" group-title="Southeast Asia",VTV 9(Vietnam)
+https://livecdn.fptplay.net/hda/vtv9_2000.stream/chunklist.m3u8
+#EXTINF-1 tvg-id="VC3.VN" tvg-logo="https://mytv.com.vn/upload/channel/83.png" group-title="Southeast Asia",VTC 3(Vietnam)
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC3-HD-720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg" group-title="South East Asia",Vĩnh Long 1(Vietnam)
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg" group-title="Southeast Asia",Vĩnh Long 1(Vietnam)
 https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_htv3_145672766359.jpg" group-title="South East Asia",HTV 3(Vietnam)
-https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-ID="RAJ.IN" tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png" group-title="India",Raj TV
