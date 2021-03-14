@@ -1,5 +1,18 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5
+http://101.127.128.44:9981/stream/channelid/1482377991
+#EXTINF:-1 tvg-ID="Ch8.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="Singapore",8频道
+http://101.127.128.44:9981/stream/channelid/1647051959
+#EXTINF:-1 tvg-ID="ChU.SG" tvg-logo="https://static.epg.best/sg/ChannelU.sg.png" group-title="Singapore",U频道
+http://101.127.128.44:9981/stream/channelid/1677198652
+#EXTINF:-1 tvg-ID="Vas.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-title="Singapore",Vasantham 
+http://101.127.128.44:9981/stream/channelid/1434561421
+#EXTINF:-1 tvg-ID="Sur.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="Singapore",Suria 
+http://101.127.128.44:9981/stream/channelid/1785002562
+#EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png" group-title="Singapore",Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
 #EXTINF:-1 tvg-id="ATV.HK" tvg-logo="https://www.hkatv.com/images/logo.png" group-title="香港",亞洲電視
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
 #EXTINF:-1 tvg-id="31.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="香港",港台電視31
@@ -11,7 +24,7 @@ http://93.190.139.36:8278/streams/d/hkphoenix_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="KAI.HK" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港",香港开電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港",翡翠台                  
-https://cdn.hkdtmb.com/hls/81/index.m3u8
+http://61.238.6.49:8000/bysid/1
 #EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="香港",J2台                  
 http://61.238.6.49:8001/bysid/82
 #EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="香港",無綫新聞
@@ -100,7 +113,7 @@ http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 #EXTINF:-1 tvg-id="JTB.KR" tvg-logo="https://static.epg.best/kr/JTBC.kr.png" group-title="日韩",JTBC
 http://95.217.44.77:80/jtbc/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="tvN.KR" tvg-logo="https://static.epg.best/kr/tvN.kr.png group-title="日韩",tvN
+#EXTINF:-1 tvg-id="tvN.KR" tvg-logo="https://static.epg.best/kr/tvN.kr.png" group-title="日韩",tvN
 http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/kr/Mnet.kr.png" group-title="日韩",M-NET
 http://95.217.44.77/mnet/tracks-v1a1/mono.m3u8
@@ -118,7 +131,7 @@ http://live.cdn.tvchosun.com/live/_definst_/tvchosun3.stream/chunklist.m3u8
 rtmp://origin.flive.skcdn.com/mbn-auth1/1000k
 #EXTINF:-1 tvg-id="ONE.KR" tvg-logo="https://www.onetvasia.com/sites/onetvasia.com/files/logo-small_0.png" group-title="日韩",One
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 tvg-id="OHK.KR" tvg-logo="https://www.ohk-tv.com/img/logo.png group-title="日韩",Oh!k
+#EXTINF:-1 tvg-id="OHK.KR" tvg-logo="https://www.ohk-tv.com/img/logo.png" group-title="日韩",Oh!k
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NHG.JP" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" group-title="日韩",NHK総合
@@ -139,7 +152,7 @@ http://203.162.235.41:16905
 https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 tvg-id="WOW.JP" tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/ch/35.jpg" group-title="日韩",シネフィルWOWOW
 http://203.162.235.41:16916
-#EXTINF:-1 tvg-id="ATX.JP" tvg-logo="https://www.at-x.com/images/common/logo.png group-title="日韩",AT-X
+#EXTINF:-1 tvg-id="ATX.JP" tvg-logo="https://www.at-x.com/images/common/logo.png" group-title="日韩",AT-X
 https://sub2.neetball.net/live/neet.m3u8
 
 #EXTINF:-1 tvg-id="CT1.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中国",CCTV-1 综合
@@ -412,12 +425,14 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC3-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg" group-title="Southeast Asia",Vĩnh Long 1(Vietnam)
 https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 
-
+#EXTINF:-1 tvg-ID="ZTV.IN" tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/k93qrKIA_zee_tv_HD.jpeg" group-title="India",Zee TV
+https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.m3u8
+#EXTINF:-1 tvg-ID="ZCI.IN" tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="India",Zee Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 #EXTINF:-1 tvg-ID="RAJ.IN" tvg-logo="http://www.rajtvnet.in/Raj_Net/Bottom_Scroller_Logo/Tamil_Rajtv.png" group-title="India",Raj TV
 http://103.199.161.254/Content/rajtv/Live/Channel(RajTV)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-ID="Kal.IN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/141_1920x1080_HTV.png" group-title="India",Kalaignar
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
-
 #EXTINF:-1 tvg-id="PIT.IN" tvg-logo="https://www.pitaara.tv/wp-content/uploads/2020/09/pitaaralogo.png" group-title="India",Pitaara
 https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/playlist.m3u8
 
