@@ -183,7 +183,7 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m
 https://i.mjh.nz/nz/tv.trackside1.m3u8|X-Forwarded-For=202.89.4.222
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Trackside2nz.png" group-title="Horse Racing",TAB Trackside 2
 https://i.mjh.nz/nz/tv.trackside2.m3u8|X-Forwarded-For=202.89.4.222
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.stoixima.com.gr/wp-content/uploads/2020/10/pamestoixima_260x160.png group-title="Horse Racing",Stoixima(Greece)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stoixima.com.gr/wp-content/uploads/2020/10/pamestoixima_260x160.png" group-title="Horse Racing",Stoixima(Greece)
 https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://2upyml2xgast2pwf71r0ycaj-wpengine.netdna-ssl.com/wp-content/uploads/fightsports140.jpg" group-title="MMA",Fight Sports
