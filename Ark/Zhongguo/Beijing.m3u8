@@ -739,5 +739,5 @@ http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.japanet.co.jp/shopping/img/senqua/header/logo.gif" group-title="日本",ジャパネットチャンネルDX
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.at-x.com/images/common/logo.png group-title="日本",AT-X
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.at-x.com/images/common/logo.png" group-title="日本",AT-X
 https://sub2.neetball.net/live/neet.m3u8
