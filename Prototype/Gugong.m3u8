@@ -1,15 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-ID="Ch5.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5
-http://101.127.128.44:9981/stream/channelid/1482377991
+http://101.127.128.44:9981/stream/channelid/1482377991/index.m3u8
 #EXTINF:-1 tvg-ID="Ch8.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="Singapore",8频道
-http://101.127.128.44:9981/stream/channelid/1647051959
+http://101.127.128.44:9981/stream/channelid/1647051959/index.m3u8
 #EXTINF:-1 tvg-ID="ChU.SG" tvg-logo="https://static.epg.best/sg/ChannelU.sg.png" group-title="Singapore",U频道
-http://101.127.128.44:9981/stream/channelid/1677198652
+http://101.127.128.44:9981/stream/channelid/1677198652/index.m3u8
 #EXTINF:-1 tvg-ID="Vas.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/105_1920x1080_HTV.png" group-title="Singapore",Vasantham 
-http://101.127.128.44:9981/stream/channelid/1434561421
+http://101.127.128.44:9981/stream/channelid/1434561421/index.m3u8
 #EXTINF:-1 tvg-ID="Sur.SG" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="Singapore",Suria 
-http://101.127.128.44:9981/stream/channelid/1785002562
+http://101.127.128.44:9981/stream/channelid/1785002562/index.m3u8
 #EXTINF:-1 tvg-ID="Cna.SG" tvg-logo="https://static.epg.best/sg/ChannelNewsAsia.sg.png" group-title="Singapore",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
