@@ -396,7 +396,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/f9973976e
 http://stream2.tv5.com.ph:1935/live2/smil:tv5stream.smil/chunklist_w272324549_b628000.m3u8
 #EXTINF:-1 tvg-id="GMN.PH" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/07200017/ptv-logo-300x300.png" group-title="Southeast Asia",PTV(Phillppines)
 https://pcccw.github.io/pcccw.github.io/M3U8/Token/PH/PTVPH.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://zekerxa.com/img/Mrtv.101fd7fc.png" group-title="Southeast Asia",MRTV(Myanmar)
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.abu.org.my/wp-content/uploads/2019/04/mrtv.png" group-title="Southeast Asia",MRTV(Myanmar)
 http://203.81.81.230/hls-live/livepkgr/_definst_/mrtv/mrtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://itisgadget.com/wp-content/uploads/2019/06/Myanmar-TV-Channel-MNTV-Live-Streaming.png" group-title="Southeast Asia",MNTV(Myanmar)
 https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8
@@ -417,7 +417,7 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/VTC3-HD-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.thvli.vn/assets/thumbnail/2019/02/02/2qi0iife_Logo-THVLi1.jpg" group-title="Southeast Asia",Vĩnh Long 1(Vietnam)
 https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 tvg-ID="ZTV.IN" tvg-logo="http://poster.starhubgo.com/Linear_channels2/125_1920x1080_HTV.png" group-title="India",Zee TV
+#EXTINF:-1 tvg-ID="ZTV.IN" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_368,h_207,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvapac/channel_list/androidapphover_2.png" group-title="India",Zee TV
 https://y5w8j4a9.ssl.hwcdn.net/apacsea/index.m3u8
 #EXTINF:-1 tvg-ID="ZCI.IN" tvg-logo="https://static.epg.best/sa/ZeeCinemaEn.sa.png" group-title="India",Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
