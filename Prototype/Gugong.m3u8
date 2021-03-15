@@ -683,14 +683,14 @@ http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="IT1.UK" tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="Europe",ITV(UK)
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-id="IT2.UK" tvg-logo="http://static.epg.best/gb/ITV2.uk.png" group-title="Europe",ITV 2(UK)
-http://51.38.62.145:8080/bbc4/tracks-v1a1/mono.m3u8
+http://51.38.62.145:8080/itv2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="IT3.UK" tvg-logo="http://static.epg.best/gb/ITV3.uk.png" group-title="Europe",ITV 3(UK)
-http://51.38.62.145:8080/bbc4/tracks-v1a1/mono.m3u8
+http://51.38.62.145:8080/itv3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="IT4.UK" tvg-logo="http://static.epg.best/gb/ITV4.uk.png" group-title="Europe",ITV 4(UK)
-http://51.38.62.145:8080/bbc4/tracks-v1a1/mono.m3u8
+http://51.38.62.145:8080/itv4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CTV.UK" tvg-logo="http://static.epg.best/gb/CITV.uk.png" group-title="Europe",CITV(UK)
 http://51.38.62.145:8080/citv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ITB4.UK" tvg-logo="http://static.epg.best/gb/CITV.uk.png" group-title="Europe",ITV BE(UK)
+#EXTINF:-1 tvg-id="ITB4.UK" tvg-logo="https://static.epg.best/gb/ITVBe.uk.pngg" group-title="Europe",ITV BE(UK)
 http://51.38.62.145:8080/itvbe/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-ID="TF1.FR" tvg-logo="http://static.epg.best/fr/TF1.fr.png" group-title="Europe",TF1(France)
