@@ -838,6 +838,14 @@ https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8
 https://lituanica-dvr.lrt.lt/lrt_radijas/hls/lrt_radijas_cam2_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://chaula.tv/static/chaulatv/css/images/big_logo.png" group-title="Baltic States",Chau(Latvija)
 http://video.chaula.tv/hls/live/high/playlist_high.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/lt/TV3.lt.png" group-title="Baltic States",TV3(Latvija)
+http://88.119.220.2/live/eds/TV3_LV_SD/H1s_0utput/TV3_LV_SD.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/lt/TV6.lt.png" group-title="Baltic States",TV6(Latvija)
+http://88.119.220.2/live/eds/TV6_LV_SD/H1s_0utput/TV6_LV_SD.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/lt/TV3.lt.png" group-title="Baltic States",TV3(Lietuva)
+http://88.119.220.2/live/eds/TV3_LT_SD/H1s_0utput/TV3_LT_SD.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/lt/TV6.lt.png" group-title="Baltic States",TV6(Lietuva)
+http://88.119.220.2/live/eds/TV6_LT_SD/H1s_0utput/TV6_LT_SD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/md/Moldova1.md.png" group-title="Moldova",Moldova 1
