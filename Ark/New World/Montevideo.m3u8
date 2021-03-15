@@ -1050,10 +1050,14 @@ http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2016/05/unitel-218x150.png" group-title="Bolivia",Unitel
 http://136.243.3.70:1935/Unitel/Unitel/chunklist.m3u8
 
+
+#EXTINF:-1 tvg-id="CTV8.bb" tvg-logo="http://www.cbc.bb/images/CBC-TV-8_HD.png" group-title="Bahamas",CBC TV8
+https://1740288887.rsc.cdn77.org/1740288887/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://iltvstudios.com/wp-content/themes/iltv/images/logo.png" group-title="Bahamas",ILTV Studios
 https://iltv.cachefly.net/live/live_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://znsbahamas.com/wp-content/uploads/2017/12/ZNS-PL-1.png" group-title="Bahamas",ZNS Network
-https://5a3c73deb0839.streamlock.net/znstv/smil:znstv_streams.smil/chunklist.m3u8
+https://cloud.streamcomedia.com/znstv/smil:znstv_streams.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lared.cl/wp-content/themes/medianed-child/img/logo-blanco-slogan.png" group-title="Chile",La Red
 http://cl-lared-lared-app-oiuh8d-origin-0.ned.media/lared/smil:lared.smil/playlist.m3u8
